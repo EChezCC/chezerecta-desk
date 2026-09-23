@@ -1,3 +1,12 @@
 [
-  { "day": "2026-09-23", "subs": 2400, "earn": 35, "an7": 378 }
+  {
+    "day": "2026-09-23",
+    "subs": 2400,
+    "earn": 35,
+    "an7": 378.2,
+    "earn_as_of": "2026-09-18",
+    "an7_range": "2026-09-16/2026-09-22",
+    "channel": "@DJChezerecta",
+    "source": "eyes-on Studio"
+  }
 ]
