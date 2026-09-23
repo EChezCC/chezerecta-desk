@@ -1,0 +1,31 @@
+{
+  "day": "2026-09-23",
+  "channel": "@DJChezerecta",
+  "kpis": {
+    "subs": 2400,
+    "earn": 35,
+    "an7": 378.2,
+    "views7": 103301,
+    "an28": 674.1,
+    "views28": 158450,
+    "shorts90": 3400
+  },
+  "content_source": "Public channel listing 2026-09-23 + Studio KPIs (Earn 35 through Sep 18). CTR / per-video hours pending Studio Content tab.",
+  "content": [
+    {"title": "English Mix (Official Video)", "kind": "long mix", "views": 1200},
+    {"title": "Latin Mix (Official Video)", "kind": "long mix", "views": 599},
+    {"title": "All Night Service (Official Video)", "kind": "video", "views": 280},
+    {"title": "Que Vuelvan los Clásicos", "kind": "video", "views": 112},
+    {"title": "Don't Let It Stop", "kind": "video", "views": 82},
+    {"title": "Así de Cerca", "kind": "video", "views": 26},
+    {"title": "Keep the Floor Warm", "kind": "video", "views": 7},
+    {"title": "Leave the Light On", "kind": "video", "views": 4}
+  ],
+  "recs": [
+    "YPP gate is qualified hours (35 / 4,000), not subs. Keep the 7pm–3am live → public VOD path; that is what moved Analytics 7d to 378 hours.",
+    "Long mixes beat new 3-minute Official Videos. Position English Mix + Latin Mix in the Mixes playlist and end-screen every new single into a mix.",
+    "Among singles, Que Vuelvan los Clásicos and Don't Let It Stop are the ones people actually open. Match that thumb/title pattern on the next salsa/classics cut before another 90s R&B single with 4–7 views.",
+    "Earn Shorts views are 3.4K of 10M. Do not treat Shorts as the YPP plan. Use Shorts only as a funnel into the live and the long mixes.",
+    "Analytics hours ≠ Earn hours. Log the Earn meter daily so a live night is not mistaken for YPP progress."
+  ]
+}
