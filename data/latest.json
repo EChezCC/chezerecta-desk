@@ -1,19 +1,17 @@
 {
-  "day": "2026-09-23",
+  "day": "2026-09-24",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
-    "subs": 2450,
-    "earn": 35,
-    "an7": 378.2,
-    "views7": 103301,
-    "an28": 674.1,
-    "views28": 158450,
-    "shorts90": 3400,
-    "channel_views": 158521,
-    "video_count": 83
+    "subs": 2667,
+    "earn": 36,
+    "an7": 460.6,
+    "views7": 118836,
+    "an28": 803.4,
+    "views28": 178217,
+    "shorts90": 3400
   },
-  "content_source": "YouTube Data API 2026-09-23 (subs, lifetime views). Earn 35 / Analytics 7d+28d last-known Studio — not invented. CTR not in Data API.",
+  "content_source": "YCM Studio eyes-on 2026-09-24 @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg. Earn 36 qualified public watch hours (365d, as of Sep 19). Analytics 7d Sep 17–23: 118,836 views / 460.6h. Analytics 28d Aug 27–Sep 23: 178,217 views / 803.4h. shorts90 last-known 3.4K (not on this pull). Content tab missing today — views/CTR not invented.",
   "content": [
     {"title": "Háblame Bailando", "kind": "long", "views": 14469, "id": "qXW0DEkTe2Q"},
     {"title": "Time and Money", "kind": "long", "views": 3908, "id": "6JAcnRSnpn0"},
@@ -30,10 +28,10 @@
     {"title": "Aunque Sea Mentira", "kind": "short", "views": 2577, "id": "jeMkHkR8wjo"}
   ],
   "recs": [
-    "YPP gate is qualified hours (35 / 4,000). Subs are 2,450 and already clear 1,000.",
-    "Háblame Bailando is the catalog: 14,469 on the long and 54,371 on the Short. End-screen new cuts into that long and the Mixes playlist. Do not treat English Mix as #1.",
-    "Next longs that work: Time and Money (3,908) and Vuelve Esta Noche (2,205). Match that title/runtime before another single with a handful of views.",
-    "English Mix (1,315) and Latin Mix (619) still beat most new Official Videos. Keep mixes in the Mixes playlist; funnel Shorts into the matching long.",
-    "Earn Shorts views are last-known 3.4K / 10M. Shorts are a funnel, not the YPP hours plan. Analytics 7d (378.2h) is not Earn — log the 4,000 meter only from the YPP qualified-hours screen."
+    "YPP gate is qualified hours (36 / 4,000). Subs 2,667 already clear 1,000.",
+    "Háblame Bailando is the catalog: 14,469 long / 54,371 Short. End-screen new cuts into that long and Mixes. Do not treat English Mix as #1.",
+    "Next longs that work: Time and Money (3,908) and Vuelve Esta Noche (2,205). Match that title/runtime before another handful-view single.",
+    "English Mix (1,315) and Latin Mix (619) still beat most new Official Videos. Keep mixes in Mixes; funnel Shorts into the matching long.",
+    "Earn Shorts views last-known 3.4K / 10M. Shorts are a funnel, not the hours plan. Analytics 7d 460.6h is not Earn — log the 4,000 meter only from the YPP qualified-hours screen."
   ]
 }
