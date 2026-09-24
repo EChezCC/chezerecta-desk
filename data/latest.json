@@ -3,35 +3,103 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
-    "subs": 2667,
+    "subs": 2680,
     "earn": 36,
     "an7": 460.6,
     "views7": 118836,
     "an28": 803.4,
     "views28": 178217,
-    "shorts90": 3400
+    "shorts90": 3400,
+    "channel_views": 165376,
+    "video_count": 90
   },
-  "content_source": "YCM Studio eyes-on 2026-09-24 @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg. Earn 36 qualified public watch hours (365d, as of Sep 19). Analytics 7d Sep 17–23: 118,836 views / 460.6h. Analytics 28d Aug 27–Sep 23: 178,217 views / 803.4h. shorts90 last-known 3.4K (not on this pull). Content tab missing today — views/CTR not invented.",
+  "content_source": "YouTube Data API 2026-09-24 @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (2,680 subs, 90 videos, 165,376 channel views). Earn Soft Soft Soft Soft-PASS 36 qualified public watch hours (as of 2026-09-19; Studio Soft Soft Soft Soft-PASS shelves-earn-retry-20260924 (~5:22am ET)). Analytics Soft Soft Soft Soft-PASS 7d Sep 17–23, 2026: 118,836 views / 460.6h; 28d Aug 27–Sep 23, 2026: 178,217 views / 803.4h. shorts90 last-known 3.4K (UNVERIFIED on this morning Soft Soft Soft Soft-PASS). Content board = Data API viewCount (top 8 long/live + top 5 Shorts). CTR UNVERIFIED.",
   "content": [
-    {"title": "Háblame Bailando", "kind": "long", "views": 14469, "id": "qXW0DEkTe2Q"},
-    {"title": "Time and Money", "kind": "long", "views": 3908, "id": "6JAcnRSnpn0"},
-    {"title": "Vuelve Esta Noche", "kind": "long", "views": 2205, "id": "1sKPharmVVM"},
-    {"title": "English Mix", "kind": "long mix", "views": 1315, "id": "StjG2rDDOkg"},
-    {"title": "Baja Pa' La Calle", "kind": "long", "views": 1248, "id": "ZZuCa6PfGhs"},
-    {"title": "Heat Check", "kind": "long", "views": 1107, "id": "miZbce10DG0"},
-    {"title": "Baja Panti", "kind": "long", "views": 866, "id": "xyHHQ6poN_4"},
-    {"title": "Latin Mix", "kind": "long mix", "views": 619, "id": "X9j7lvl1lGg"},
-    {"title": "Hablame Bailando Short", "kind": "short", "views": 54371, "id": "jXYgugUiUc0"},
-    {"title": "Aunque Duela", "kind": "short", "views": 40846, "id": "xFZKi7tDTm8"},
-    {"title": "No Pasa de Moda", "kind": "short", "views": 16565, "id": "-Fa1bCKEqM8"},
-    {"title": "Luz Baja", "kind": "short", "views": 11602, "id": "Y_mR_OcTzoI"},
-    {"title": "Aunque Sea Mentira", "kind": "short", "views": 2577, "id": "jeMkHkR8wjo"}
+    {
+      "title": "Háblame Bailando",
+      "kind": "long",
+      "views": 14474,
+      "id": "qXW0DEkTe2Q"
+    },
+    {
+      "title": "Latin Mix",
+      "kind": "long mix",
+      "views": 4322,
+      "id": "X9j7lvl1lGg"
+    },
+    {
+      "title": "Time and Money",
+      "kind": "long",
+      "views": 3908,
+      "id": "6JAcnRSnpn0"
+    },
+    {
+      "title": "Vuelve Esta Noche",
+      "kind": "long",
+      "views": 2208,
+      "id": "1sKPharmVVM"
+    },
+    {
+      "title": "English Mix",
+      "kind": "long mix",
+      "views": 1486,
+      "id": "StjG2rDDOkg"
+    },
+    {
+      "title": "Baja Pa' La Calle",
+      "kind": "long",
+      "views": 1248,
+      "id": "ZZuCa6PfGhs"
+    },
+    {
+      "title": "Heat Check",
+      "kind": "long",
+      "views": 1108,
+      "id": "miZbce10DG0"
+    },
+    {
+      "title": "Baja Panti",
+      "kind": "long",
+      "views": 869,
+      "id": "xyHHQ6poN_4"
+    },
+    {
+      "title": "Hablame Bailando",
+      "kind": "short",
+      "views": 54377,
+      "id": "jXYgugUiUc0"
+    },
+    {
+      "title": "Aunque Duela",
+      "kind": "short",
+      "views": 50417,
+      "id": "xFZKi7tDTm8"
+    },
+    {
+      "title": "No Pasa de Moda",
+      "kind": "short",
+      "views": 16569,
+      "id": "-Fa1bCKEqM8"
+    },
+    {
+      "title": "Luz Baja",
+      "kind": "short",
+      "views": 11608,
+      "id": "Y_mR_OcTzoI"
+    },
+    {
+      "title": "Aunque Sea Mentira",
+      "kind": "short",
+      "views": 2585,
+      "id": "jeMkHkR8wjo"
+    }
   ],
   "recs": [
-    "YPP gate is qualified hours (36 / 4,000). Subs 2,667 already clear 1,000.",
-    "Háblame Bailando is the catalog: 14,469 long / 54,371 Short. End-screen new cuts into that long and Mixes. Do not treat English Mix as #1.",
-    "Next longs that work: Time and Money (3,908) and Vuelve Esta Noche (2,205). Match that title/runtime before another handful-view single.",
-    "English Mix (1,315) and Latin Mix (619) still beat most new Official Videos. Keep mixes in Mixes; funnel Shorts into the matching long.",
-    "Earn Shorts views last-known 3.4K / 10M. Shorts are a funnel, not the hours plan. Analytics 7d 460.6h is not Earn — log the 4,000 meter only from the YPP qualified-hours screen."
+    "YPP gate is qualified hours (36 / 4,000). Subs 2,680 already clear 1,000.",
+    "Háblame Bailando is the catalog: 14,474 long / 54,377 Short. End-screen new cuts into that long and Mixes. Do not treat English Mix as #1.",
+    "Latin Mix jumped to 4,322 views (board #2 long). Keep it in Mixes; funnel Shorts into matching longs.",
+    "Next singles that work: Time and Money (3,908) and Vuelve Esta Noche (2,208). Match that title/runtime before another handful-view single.",
+    "Aunque Duela Short (50,417) is the breakout Soft Soft Soft Soft-PASS Short after Háblame. English Mix (1,486) still beats most new Official Videos — keep Mixes shelf tight.",
+    "Analytics Soft Soft Soft Soft-PASS 7d 460.6h / 118,836 views; 28d 803.4h / 178,217 views. Earn Shorts 90d UNVERIFIED this morning — last-known 3.4K / 10M. Shorts are a funnel, not the hours plan. Log the 4,000 meter only from the YPP qualified-hours screen."
   ]
 }
