@@ -3,17 +3,17 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
-    "subs": 2740,
-    "earn": 36,
-    "an7": 460.6,
-    "views7": 118836,
-    "an28": 803.4,
-    "views28": 178217,
-    "shorts90": 3400,
+    "subs": 2750,
+    "earn": 43,
+    "an7": 783.1,
+    "views7": 97069,
+    "an28": 1186.4,
+    "views28": 182748,
+    "shorts90": 4300,
     "channel_views": 181308,
     "video_count": 93
   },
-  "content_source": "YouTube Data API 2026-09-25 08:56 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (2,740 subs, 93 videos, 181,308 channel views). Earn LAST-KNOWN 36 qualified public watch hours (as of 2026-09-19; Studio not refreshed this morning). Analytics LAST-KNOWN 7d Sep 17–23: 118,836 views / 460.6h; 28d Aug 27–Sep 23: 178,217 views / 803.4h. shorts90 last-known 3.4K UNVERIFIED. Content tab MISSING — board = Data API viewCount (top 8 long/live + top 5 Shorts). CTR UNVERIFIED; hours per title omitted.",
+  "content_source": "YouTube Data API 2026-09-25 PASS @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (2,750 subs, 93 videos, 181,308 channel views; pulled 2026-09-25T09:11:10-04:00). Earn PASS 43 qualified public watch hours (as of Sep 20, 2026; Studio eyes-on PASS 2026-09-25 ~9:06am ET). Analytics PASS 7d Sep 18–24, 2026: 97,069 views / 783.1h; 28d Aug 28–Sep 24, 2026: 182,748 views / 1186.4h. shorts90 PASS 4.3K. Content board = Data API viewCount (top 8 long/live + top 5 Shorts). CTR PASS from Studio content tab (Háblame long 6.4%; Shorts ~1.8–3.9%).",
   "content": [
     {
       "title": "Háblame Bailando",
@@ -24,7 +24,7 @@
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 7345,
+      "views": 7000,
       "id": "X9j7lvl1lGg"
     },
     {
@@ -66,7 +66,7 @@
     {
       "title": "Hablame Bailando",
       "kind": "short",
-      "views": 54379,
+      "views": 54380,
       "id": "jXYgugUiUc0"
     },
     {
@@ -95,10 +95,11 @@
     }
   ],
   "recs": [
-    "YPP gate is qualified hours (36 / 4,000 LAST-KNOWN). Subs 2,740 already clear 1,000.",
-    "Háblame Bailando is still the catalog long (14,480). End-screen new cuts into that long + Mixes.",
-    "Latin Mix jumped to 7,345 views overnight — board #2 long. Keep it featured; funnel Shorts into matching longs.",
+    "YPP gate is qualified hours (43 / 4,000 as of Sep 20 PASS). Subs 2,750 already clear 1,000.",
+    "Háblame Bailando is still the catalog: 14,480 long / 54,380 Short (CTR PASS long 6.4% / Short 1.8%). End-screen new cuts into that long and Mixes.",
+    "Latin Mix is board #2 long at 7,000 views (up hard from yesterday). Keep it in Mixes; funnel Shorts into matching longs. Do not lead with English Mix (1,524).",
     "Next singles that work: Time and Money (3,908) and Vuelve Esta Noche (2,209). Match that title/runtime before another handful-view single.",
-    "Shorts are a funnel, not the hours plan. Log the 4,000 meter only from the YPP qualified-hours screen. Content tab still missing — no CTR."
+    "Aunque Duela Short (49,680, CTR PASS 2.3%) remains the breakout after Háblame. PASS Shorts CTR cluster ~1.8–3.9%; long Háblame 6.4% is the hours play.",
+    "Analytics PASS 7d 783.1h / 97,069 views (Sep 18–24); 28d 1186.4h / 182,748 views (Aug 28–Sep 24). Earn Shorts 90d PASS 4.3K / 10M. Shorts are a funnel, not the hours plan. Log the 4,000 meter only from the YPP qualified-hours screen."
   ]
 }
