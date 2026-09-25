@@ -1,5 +1,24 @@
 [
   {
+    "day": "2026-09-25",
+    "subs": 2740,
+    "earn": 36,
+    "an7": 460.6,
+    "an28": 803.4,
+    "views7": 118836,
+    "views28": 178217,
+    "shorts90": 3400,
+    "channel_views": 181308,
+    "video_count": 93,
+    "earn_as_of": "2026-09-19",
+    "an7_range": "2026-09-17/2026-09-23",
+    "an28_range": "2026-08-27/2026-09-23",
+    "channel": "@DJChezerecta",
+    "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
+    "source": "YouTube Data API 2026-09-25 08:56 ET; Earn/Analytics LAST-KNOWN Studio 2026-09-24; shorts90 last-known",
+    "notes": "Earn 36 last-known as of Sep 19. Content board Data API. Content tab MISSING. shorts90 UNVERIFIED."
+  },
+  {
     "day": "2026-09-24",
     "subs": 2680,
     "earn": 36,
@@ -15,8 +34,8 @@
     "an28_range": "2026-08-27/2026-09-23",
     "channel": "@DJChezerecta",
     "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
-    "source": "YouTube Data API + Desk Studio Soft Soft Soft Soft-PASS Earn/Analytics 2026-09-24; shorts90 last-known",
-    "notes": "Earn Soft Soft Soft Soft-PASS 36 (never Memberships welcome). Content board Data API. shorts90 UNVERIFIED this morning."
+    "source": "YouTube Data API + Desk Studio Earn/Analytics 2026-09-24; shorts90 last-known",
+    "notes": "Earn 36 (never Memberships welcome). Content board Data API. shorts90 UNVERIFIED this morning."
   },
   {
     "day": "2026-09-23",
