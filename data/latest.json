@@ -1,90 +1,90 @@
 {
-  "day": "2026-09-26",
+  "day": "2026-09-27",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
-    "subs": 2770,
-    "earn": 57,
-    "an7": 1032.6,
-    "views7": 83456,
-    "an28": 1478.6,
-    "views28": 186175,
-    "shorts90": 4500,
-    "channel_views": 184801,
-    "video_count": 98
+    "subs": 3130,
+    "earn": 91,
+    "an7": 1199.1,
+    "views7": 91129,
+    "an28": 1662.9,
+    "views28": 202694,
+    "shorts90": 4600,
+    "channel_views": 191930,
+    "video_count": 108
   },
-  "content_source": "YouTube Data API PASS 2026-09-26 @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (2,770 subs, 98 videos, 184,801 channel views; pulled 2026-09-26T08:52:07-04:00). Studio eyes-on PASS 2026-09-26 ~9:11am ET identity_verified: Earn CURRENT 57 qualified public watch hours (as of Sep 21, 2026); Analytics CURRENT 7d Sep 19–25, 2026: 83,456 views / 1032.6h; 28d Aug 29–Sep 25, 2026: 186,175 views / 1478.6h; shorts90 CURRENT 4.5K. Content board = Data API viewCount (top 8 long + top 5 Shorts). Per-row CTR MISSING today; content-tab total CTR 3.1% only — do not invent per-video CTR.",
+  "content_source": "YouTube Data API PASS 2026-09-27 @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (3,130 subs, 108 videos, 191,930 channel views; pulled 2026-09-27T08:55:25-04:00). Studio eyes-on PASS 2026-09-27 ~9:01am ET identity_verified: Earn CURRENT 91 qualified public watch hours (as of Sep 22, 2026; 4,000 criterion); Analytics CURRENT 7d Sep 20–26, 2026: 91,129 views / 1199.1h; 28d Aug 30–Sep 26, 2026: 202,694 views / 1662.9h; shorts90 CURRENT 4.6K. Content board = Data API viewCount (top 8 long + top 5 Shorts). Studio content-tab total CTR 2.7% (28d Advanced); per-row CTR available on Studio table but board stays Data API views — do not invent CTR on API board rows.",
   "content": [
     {
       "title": "Háblame Bailando",
       "kind": "long",
-      "views": 14484,
+      "views": 14500,
       "id": "qXW0DEkTe2Q"
     },
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 8999,
+      "views": 10663,
       "id": "X9j7lvl1lGg"
     },
     {
       "title": "Time and Money",
       "kind": "long",
-      "views": 3908,
+      "views": 3909,
       "id": "6JAcnRSnpn0"
     },
     {
       "title": "Vuelve Esta Noche",
       "kind": "long",
-      "views": 2208,
+      "views": 2213,
       "id": "1sKPharmVVM"
     },
     {
       "title": "English Mix",
       "kind": "long mix",
-      "views": 1565,
+      "views": 1567,
       "id": "StjG2rDDOkg"
     },
     {
       "title": "Baja Pa' La Calle",
       "kind": "long",
-      "views": 1249,
+      "views": 1252,
       "id": "ZZuCa6PfGhs"
     },
     {
       "title": "Heat Check",
       "kind": "long",
-      "views": 1112,
+      "views": 1115,
       "id": "miZbce10DG0"
     },
     {
       "title": "Baja Panti",
       "kind": "long",
-      "views": 874,
+      "views": 877,
       "id": "xyHHQ6poN_4"
     },
     {
       "title": "Hablame Bailando",
       "kind": "short",
-      "views": 54410,
+      "views": 69517,
       "id": "jXYgugUiUc0"
     },
     {
       "title": "Aunque Duela",
       "kind": "short",
-      "views": 49676,
+      "views": 49665,
       "id": "xFZKi7tDTm8"
     },
     {
       "title": "No Pasa de Moda",
       "kind": "short",
-      "views": 16572,
+      "views": 16579,
       "id": "-Fa1bCKEqM8"
     },
     {
       "title": "Luz Baja",
       "kind": "short",
-      "views": 11609,
+      "views": 11610,
       "id": "Y_mR_OcTzoI"
     },
     {
@@ -95,11 +95,11 @@
     }
   ],
   "recs": [
-    "Earn CURRENT 57 qualified public hours (as of Sep 21, Studio eyes-on). Subs 2,770 already clear 1,000. Track YPP from the qualified-hours screen only — never Memberships welcome.",
-    "Háblame Bailando is still #1 long (14,484) and #1 Short (54,410). End-screen new cuts into that long and Mixes.",
-    "Latin Mix is board #2 long at 8,999 views (up from ~7,000 yesterday). Keep it in Mixes; funnel Shorts into matching longs. Do not lead with English Mix (1,565).",
-    "Next singles that work: Time and Money (3,908) and Vuelve Esta Noche (2,208). Match that title/runtime before another handful-view single.",
-    "Aunque Duela Short (49,676) remains the breakout after Háblame. Per-row CTR MISSING today (content-tab total CTR 3.1% only) — do not invent per-video CTR.",
-    "Analytics CURRENT 7d 1032.6h / 83,456 views (Sep 19–25); 28d 1478.6h / 186,175 views (Aug 29–Sep 25). shorts90 CURRENT 4.5K. Shorts are a funnel, not the hours plan."
+    "Earn CURRENT 91 qualified public hours (as of Sep 22, Studio eyes-on). Subs 3,130 already clear 1,000. Track YPP from the qualified-hours screen only — never Memberships welcome.",
+    "Háblame Bailando still #1 long (14,500) and #1 Short (69,517). End-screen new cuts into that long and Mixes.",
+    "Latin Mix jumped to 10,663 views (board #2 long). Keep it in Mixes; funnel Shorts into matching longs. Do not lead with English Mix (1,567).",
+    "Next singles that work: Time and Money (3,909) and Vuelve Esta Noche (2,213). Match that title/runtime before another handful-view single.",
+    "Aunque Duela Short (49,665) remains the breakout after Háblame. Studio content-tab total CTR 2.7% (28d); board rows stay Data API views without per-video CTR invent.",
+    "Analytics CURRENT 7d 1199.1h / 91,129 views (Sep 20–26); 28d 1662.9h / 202,694 views (Aug 30–Sep 26). shorts90 CURRENT 4.6K. Shorts are a funnel, not the hours plan."
   ]
 }
