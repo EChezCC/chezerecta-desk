@@ -1,19 +1,19 @@
 {
-  "day": "2026-09-29",
+  "day": "2026-09-30",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
-    "subs": 3620,
-    "earn": 256,
-    "an7": 1514.1,
-    "views7": 107077,
-    "an28": 2083.6,
-    "views28": 246135,
-    "shorts90": 4000,
+    "subs": 3850,
+    "earn": 367,
+    "an7": 1593.1,
+    "views7": 108046,
+    "an28": 2300,
+    "views28": 266173,
+    "shorts90": 5100,
     "channel_views": 231093,
     "video_count": 120
   },
-  "content_source": "YouTube Data API PASS 2026-09-29 @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (3,620 subs, 120 videos, 231,093 channel views; pulled 2026-09-29T09:04:49-04:00). Studio eyes-on PASS 2026-09-29 ~9:05am ET identity_verified: Earn CURRENT 256 qualified public watch hours (as of Sep 24, 2026; 4,000 criterion); Analytics CURRENT 7d Sep 22–28, 2026: 107,077 views / 1514.1h; 28d Sep 1–28, 2026: 246,135 views / 2083.6h; shorts90 CURRENT 4K/4000. Content board = Data API viewCount (top 8 long + top 5 Shorts). Studio content-tab has per-row thumbnail CTR (28d Advanced) but board stays Data API views — do not invent CTR on API board rows.",
+  "content_source": "Desk Studio eyes-on CURRENT 2026-09-30 ~8:59am ET identity_verified @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg: Earn CURRENT 367 qualified public watch hours (as of Sep 25, 2026; 4,000 criterion); Analytics CURRENT 7d Sep 23–29, 2026: 108,046 views / 1593.1h; 28d Sep 2–29, 2026: 266,173 views / 2.3K h (Studio card shows 2.3K → stored 2300); shorts90 CURRENT 5.1K/5100; Studio dashboard subs CURRENT 3,850. YouTube Data API FAIL 2026-09-30 (OAuth invalid_grant) — video_count 120 and channel_views 231,093 are LAST-KNOWN from Data API PASS 2026-09-29; content board = LAST-KNOWN Data API viewCount (top 8 long + top 5 Shorts) from 2026-09-29 — do not invent lifetime views. Studio content-tab 7d Advanced rows available in REPORT.json but board stays Data API lifetime when API fails; do not invent CTR on board rows.",
   "content": [
     {
       "title": "Latin Mix",
@@ -95,11 +95,11 @@
     }
   ],
   "recs": [
-    "Earn CURRENT 256 qualified public hours (as of Sep 24, Studio eyes-on). Subs 3,620 already clear 1,000. Track YPP from the qualified-hours screen only — never Memberships welcome.",
-    "Latin Mix is now #1 long at 16,350 (passed Háblame). Keep it in Mixes; end-screen new cuts into Mix + matching longs.",
-    "Háblame Bailando long 14,512 + Short ~101,202 still the flagship funnel. End-screen Shorts into that long and Mixes.",
-    "Next singles that work: Time and Money (3,913) and Vuelve Esta Noche (2,218). Match that title/runtime before another handful-view single.",
-    "Aunque Duela Short (49,699) remains the breakout after Háblame. Studio content-tab shows per-row CTR; board rows stay Data API views without per-video CTR invent.",
-    "Analytics CURRENT 7d 1514.1h / 107,077 views (Sep 22–28); 28d 2083.6h / 246,135 views (Sep 1–28). shorts90 CURRENT 4K. Shorts are a funnel, not the hours plan."
+    "Earn CURRENT 367 qualified public hours (as of Sep 25, Studio eyes-on). Subs 3,850 already clear 1,000. Track YPP from the qualified-hours screen only — never Memberships welcome.",
+    "Latin Mix still #1 long on LAST-KNOWN board at 16,350. Keep it in Mixes; end-screen new cuts into Mix + matching longs.",
+    "Háblame Bailando long 14,512 + Short ~101,202 still the flagship funnel on LAST-KNOWN board. Studio 7d content-tab shows Hablame Short leading recent views — funnel Shorts into that long and Mixes.",
+    "Next singles that work: Time and Money (3,913) and Vuelve Esta Noche (2,218) LAST-KNOWN. Match that title/runtime before another handful-view single.",
+    "Aunque Duela Short (49,699 LAST-KNOWN) remains the breakout after Háblame. Studio content-tab shows per-row CTR; board rows stay LAST-KNOWN Data API views without per-video CTR invent.",
+    "Analytics CURRENT 7d 1593.1h / 108,046 views (Sep 23–29); 28d 2.3K h / 266,173 views (Sep 2–29). shorts90 CURRENT 5.1K. Shorts are a funnel, not the hours plan. Data API re-auth needed for fresh channel_views / video_count / lifetime board."
   ]
 }
