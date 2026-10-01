@@ -1,65 +1,105 @@
 {
-  "day": "2026-09-30",
+  "day": "2026-10-01",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
     "subs": 3850,
     "earn": 367,
-    "an7": 1593.1,
-    "views7": 108046,
-    "an28": 2300,
-    "views28": 266173,
+    "an7": 1478.2,
+    "views7": 89733,
+    "an28": 2281.5,
+    "views28": 267660,
     "shorts90": 5100,
-    "channel_views": 231093,
-    "video_count": 120
+    "channel_views": 266300,
+    "video_count": 133
   },
-  "content_source": "Desk Studio eyes-on CURRENT 2026-09-30 ~8:59am ET identity_verified @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg. Earn CURRENT 367 qualified public watch hours (as of Sep 25, 2026; 4,000 criterion). Analytics CURRENT 7d Sep 23–29: 108,046 views / 1593.1h; 28d Sep 2–29: 266,173 views / 2.3K h (Studio card 2.3K → 2300); shorts90 CURRENT 5.1K; Studio dash subs CURRENT 3,850. Content board = Studio Content tab 7d views/hours/CTR (sorted views). YouTube Data API FAIL 2026-09-30 (OAuth invalid_grant) — channel_views 231,093 and video_count 120 LAST-KNOWN Data API PASS 2026-09-29. Never invent lifetime views.",
+  "content_source": "YouTube Data API PASS 2026-10-01 09:01 ET HARD @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg: subs 3,850, video_count 133, channel_views 266,300; content board = Data API lifetime viewCount (top 8 long + top 5 Shorts) — do not invent CTR on board rows. Desk Studio PARTIAL same morning identity_verified (REPORT status PARTIAL): Analytics CURRENT 7d Sep 24–30, 2026: 89,733 views / 1478.2h; 28d Sep 3–30, 2026: 267,660 views / 2281.5h; Studio dashboard subs 3,852. Earn LAST-KNOWN 367 qualified public watch hours (as of Sep 25, 2026 from Sep 30 Studio eyes-on) — today's Earn screen showed Memberships/Supers/Shopping only; YPP 4,000 public-hours meter not visible (never Memberships welcome). shorts90 LAST-KNOWN 5.1K/5100 from Sep 30 Studio.",
   "content": [
-    {
-      "title": "Hablame Bailando",
-      "kind": "short",
-      "views": 63400,
-      "hours": 161.9,
-      "ctr": 2.0,
-      "id": "jXYgugUiUc0"
-    },
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 18103,
-      "hours": 1014.8,
-      "ctr": 12.2,
+      "views": 18641,
       "id": "X9j7lvl1lGg"
+    },
+    {
+      "title": "Háblame Bailando",
+      "kind": "long",
+      "views": 14525,
+      "id": "qXW0DEkTe2Q"
+    },
+    {
+      "title": "Time and Money",
+      "kind": "long",
+      "views": 3916,
+      "id": "6JAcnRSnpn0"
+    },
+    {
+      "title": "Vuelve Esta Noche",
+      "kind": "long",
+      "views": 2220,
+      "id": "1sKPharmVVM"
+    },
+    {
+      "title": "English Mix",
+      "kind": "long mix",
+      "views": 1571,
+      "id": "StjG2rDDOkg"
+    },
+    {
+      "title": "Baja Pa' La Calle",
+      "kind": "long",
+      "views": 1256,
+      "id": "ZZuCa6PfGhs"
+    },
+    {
+      "title": "Heat Check",
+      "kind": "long",
+      "views": 1117,
+      "id": "miZbce10DG0"
+    },
+    {
+      "title": "Baja Panti",
+      "kind": "long",
+      "views": 881,
+      "id": "xyHHQ6poN_4"
+    },
+    {
+      "title": "Hablame Bailando",
+      "kind": "short",
+      "views": 117711,
+      "id": "jXYgugUiUc0"
     },
     {
       "title": "Aunque Duela",
       "kind": "short",
-      "views": 16189,
-      "hours": 28.8,
-      "ctr": 2.2,
+      "views": 49712,
       "id": "xFZKi7tDTm8"
     },
     {
-      "title": "Chezerecta Radio Live Sep 22",
-      "kind": "live vod",
-      "views": 795,
-      "hours": 142.8,
-      "ctr": 10.5,
-      "id": "XBN-lvXWchw"
+      "title": "No Pasa de Moda",
+      "kind": "short",
+      "views": 16598,
+      "id": "-Fa1bCKEqM8"
     },
     {
-      "title": "Agua mas buena no la hay",
+      "title": "Luz Baja",
       "kind": "short",
-      "views": 622,
-      "hours": 0.9,
-      "ctr": 0.0
+      "views": 11623,
+      "id": "Y_mR_OcTzoI"
+    },
+    {
+      "title": "Aunque Sea Mentira",
+      "kind": "short",
+      "views": 2598,
+      "id": "jeMkHkR8wjo"
     }
   ],
   "recs": [
-    "Earn CURRENT 367 qualified public hours (as of Sep 25). Subs 3,850 clear 1,000. Track YPP from Eligibility only — never Memberships welcome.",
-    "Latin Mix is the hours engine this week: 18,103 views / 1,014.8h / 12.2% CTR on Content tab 7d. End-screen new Officials into Latin Mix.",
-    "Hablame Bailando Short leads 7d views (63,400 / 161.9h / 2.0% CTR). Funnel that Short into the matching long + Mixes; do not treat Shorts as the hours plan.",
-    "Radio VOD Sep 22 still pays hours at low views (795 / 142.8h / 10.5% CTR). Keep daily Radio under 12h so VOD archives; pin catalog-or-vibe request.",
-    "Aunque Duela Short 16,189 / 28.8h / 2.2% CTR is the second Short funnel. Analytics 7d 1593.1h / 108,046; 28d 2.3K h / 266,173; shorts90 5.1K. Data API re-auth needed for fresh channel_views / video_count."
+    "Earn LAST-KNOWN 367 qualified public hours (as of Sep 25, from Sep 30 Studio). Today's Earn screen missed the 4,000 meter — re-pull Earn before treating hours as CURRENT. Subs 3,850 already clear 1,000. Track YPP from the qualified-hours screen only — never Memberships welcome.",
+    "Latin Mix #1 long on today's Data API board at 18,641 (+~2.3K vs Sep 29 LAST-KNOWN). Keep it in Mixes; end-screen new cuts into Mix + matching longs. Studio 7d: Latin Mix ~955.5h (hours leader).",
+    "Háblame Bailando Short dominates: 117,711 lifetime + Studio 7d 63,441 views. Long sits at 14,525. Funnel Shorts into that long and Mixes.",
+    "English Mix now on the board at 1,571 (Public). Keep promoting alongside Latin Mix; Time and Money (3,916) and Vuelve Esta Noche (2,220) remain next singles that work.",
+    "Aunque Duela Short (49,712) remains the breakout after Háblame. Analytics CURRENT 7d 1478.2h / 89,733 views (Sep 24–30); 28d 2281.5h / 267,660 views (Sep 3–30).",
+    "shorts90 LAST-KNOWN 5.1K. Shorts are a funnel, not the hours plan. Earn re-pull needed for CURRENT meter + Shorts 90d."
   ]
 }
