@@ -1,5 +1,24 @@
 [
   {
+    "day": "2026-10-01",
+    "subs": 3850,
+    "earn": 367,
+    "an7": 1478.2,
+    "an28": 2281.5,
+    "views7": 89733,
+    "views28": 267660,
+    "shorts90": 5100,
+    "channel_views": 266300,
+    "video_count": 133,
+    "earn_as_of": "2026-09-25",
+    "an7_range": "2026-09-24/2026-09-30",
+    "an28_range": "2026-09-03/2026-09-30",
+    "channel": "@DJChezerecta",
+    "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
+    "source": "YouTube Data API PASS + Desk Studio PARTIAL Analytics CURRENT 2026-10-01; Earn/shorts90 LAST-KNOWN 2026-09-30",
+    "notes": "Earn LAST-KNOWN 367 (as of Sep 25; never Memberships welcome) — today's Earn meter not visible. Analytics CURRENT eyes-on identity_verified. Content board Data API. Studio content-tab per-row CTR available; board stays API views."
+  },
+  {
     "day": "2026-09-30",
     "subs": 3850,
     "earn": 367,
