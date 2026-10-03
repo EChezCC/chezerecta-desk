@@ -1,5 +1,5 @@
 {
-  "day": "2026-10-02",
+  "day": "2026-10-03",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
@@ -10,21 +10,21 @@
     "an28": 2300.0,
     "views28": 268471,
     "shorts90": 5500,
-    "channel_views": 267175,
-    "video_count": 140
+    "channel_views": 268149,
+    "video_count": 142
   },
-  "content_source": "YouTube Data API PASS 2026-10-02 08:51 ET HARD @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg: subs 3,850, video_count 140, channel_views 267,175; content board = Data API lifetime viewCount (top 8 long + top 5 Shorts) — do not invent CTR on board rows. Desk Studio COMPLETE same morning identity_verified (REPORT status COMPLETE, pulled_at 2026-10-02T09:02:22-04:00): Earn CURRENT 437 qualified public watch hours (as of Sep 27, 2026; YPP 4,000 meter eyes-on 03_earn_4k.webp — never Memberships welcome); shorts90 CURRENT 5.5K/5500; Analytics CURRENT 7d Sep 25–Oct 1, 2026: 85,909 views / 1127.6h; 28d Sep 4–Oct 1, 2026: 268,471 views / 2300.0h (Studio card 2.3K); Studio dashboard/realtime subs 3,853.",
+  "content_source": "YouTube Data API PASS/CURRENT HARD 2026-10-03 ~08:58 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261003/chezerecta-api.json + DESK-CARD-chezerecta.txt): subs 3,850, video_count 142, channel_views 268,149; content board = Data API lifetime viewCount (top 8 long + top 5 Shorts) — do not invent CTR on board rows. Desk Studio UNVERIFIED same morning (REPORT status UNVERIFIED; Google password gate eric.chez@gmail.com; no credentials entered; proof /workspace/desk-studio-pull/20261003/studio-proof/chezerecta/). Earn LAST-KNOWN 437 qualified public watch hours (as of Sep 27, 2026 from Oct 2 Studio eyes-on; YPP 4,000 meter — never Memberships welcome). shorts90 LAST-KNOWN 5.5K/5500 (Oct 2 eyes-on). Analytics LAST-KNOWN 7d Sep 25–Oct 1, 2026: 85,909 views / 1127.6h; 28d Sep 4–Oct 1, 2026: 268,471 views / 2300.0h (Studio card 2.3K) — from Oct 2 eyes-on. Do not mark Earn/Analytics/shorts90 CURRENT without same-morning Studio eyes-on.",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 18641,
+      "views": 18775,
       "id": "X9j7lvl1lGg"
     },
     {
       "title": "Háblame Bailando",
       "kind": "long",
-      "views": 14526,
+      "views": 14527,
       "id": "qXW0DEkTe2Q"
     },
     {
@@ -36,7 +36,7 @@
     {
       "title": "Vuelve Esta Noche",
       "kind": "long",
-      "views": 2222,
+      "views": 2225,
       "id": "1sKPharmVVM"
     },
     {
@@ -48,7 +48,7 @@
     {
       "title": "Baja Pa' La Calle",
       "kind": "long",
-      "views": 1257,
+      "views": 1258,
       "id": "ZZuCa6PfGhs"
     },
     {
@@ -60,13 +60,13 @@
     {
       "title": "Baja Panti",
       "kind": "long",
-      "views": 881,
+      "views": 885,
       "id": "xyHHQ6poN_4"
     },
     {
       "title": "Hablame Bailando",
       "kind": "short",
-      "views": 117775,
+      "views": 117713,
       "id": "jXYgugUiUc0"
     },
     {
@@ -95,11 +95,11 @@
     }
   ],
   "recs": [
-    "Earn CURRENT 437 qualified public hours (as of Sep 27, eyes-on Oct 2 Studio) — up from LAST-KNOWN 367. Subs 3,850 already clear 1,000. Track YPP from the qualified-hours screen only — never Memberships welcome. shorts90 CURRENT 5.5K / 10M.",
-    "Latin Mix stays #1 long on Data API board at 18,641. Studio 7d content tab: Latin Mix ~727.5h hours leader; Háblame Bailando Short ~63.5K views / 162.2h. Keep Mixes shelf tight; end-screen new cuts into Mix + matching longs.",
-    "Háblame Bailando Short dominates lifetime at 117,775; long at 14,526. Funnel Shorts into that long and Mixes.",
-    "English Mix holds 1,571 Public. Time and Money (3,916) and Vuelve Esta Noche (2,222) remain the next singles that work.",
-    "Aunque Duela Short (49,715) remains the breakout after Háblame. Analytics CURRENT 7d 1127.6h / 85,909 views (Sep 25–Oct 1; views −11% vs prior 7d, hours +45%); 28d 2300.0h / 268,471 views (Sep 4–Oct 1).",
-    "Shorts are a funnel, not the hours plan. Log the 4,000 meter only from the YPP qualified-hours screen."
+    "Earn LAST-KNOWN 437 qualified public hours (as of Sep 27; Oct 2 Studio eyes-on) — Studio blocked today at Google password for eric.chez@gmail.com, so Earn/Analytics/shorts90 stay LAST-KNOWN, not CURRENT. Track YPP from the qualified-hours screen only — never Memberships welcome. shorts90 LAST-KNOWN 5.5K / 10M.",
+    "Data API board CURRENT: Latin Mix #1 long at 18,775 (+134 vs Oct 2). Háblame Bailando long 14,527; Time and Money 3,916; Vuelve Esta Noche 2,225. Keep Mixes shelf tight; end-screen new cuts into Mix + matching longs.",
+    "Háblame Bailando Short still dominates lifetime at 117,713; long at 14,527. Funnel Shorts into that long and Mixes.",
+    "English Mix holds 1,571 Public. Time and Money (3,916) and Vuelve Esta Noche (2,225) remain the next singles that work. video_count CURRENT 142 / channel_views CURRENT 268,149 (Data API).",
+    "Aunque Duela Short (49,715) remains the breakout after Háblame. Analytics LAST-KNOWN 7d 1127.6h / 85,909 views (Sep 25–Oct 1); 28d 2300.0h / 268,471 views (Sep 4–Oct 1) — Oct 2 eyes-on only; Studio UNVERIFIED today.",
+    "Shorts are a funnel, not the hours plan. Log the 4,000 meter only from the YPP qualified-hours screen. Do not mark Earn CURRENT until Studio clears the password gate."
   ]
 }
