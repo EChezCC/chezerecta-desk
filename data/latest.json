@@ -1,30 +1,30 @@
 {
-  "day": "2026-10-06",
+  "day": "2026-10-07",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
     "subs": 3850,
-    "earn": 504,
-    "an7": 289.8,
-    "views7": 25073,
+    "earn": 516,
+    "an7": 131.0,
+    "views7": 5795,
     "an28": 2400.0,
-    "views28": 271127,
-    "shorts90": 6400,
-    "channel_views": 269931,
-    "video_count": 149
+    "views28": 271813,
+    "shorts90": 6600,
+    "channel_views": 270443,
+    "video_count": 152
   },
-  "content_source": "YouTube Data API PASS/CURRENT HARD 2026-10-06 08:54 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261006/chezerecta-api.json): subs 3,850, video_count 149, channel_views 269,931; content board = Data API lifetime viewCount (top 8 long + top 5 Shorts) — do not invent CTR on board rows. Desk Studio CURRENT same morning (REPORT identity_ok; checked 2026-10-06 ~9:00 AM ET; proof /workspace/desk-studio-pull/20261006/studio-proof/chezerecta/). Earn CURRENT 504 qualified public watch hours (as of Oct 1, 2026; YPP 4,000 meter — never Memberships welcome). shorts90 CURRENT 6.4K/6400. Analytics CURRENT 7d Sep 29–Oct 5, 2026: 25,073 views / 289.8h; 28d Sep 8–Oct 5, 2026: 271,127 views / 2400.0h (Studio card 2.4K).",
+  "content_source": "YouTube Data API CURRENT 2026-10-07 09:03 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261007/chezerecta-api.json): subs 3,850, video_count 152, channel_views 270,443; content board = Data API lifetime viewCount (top 8 long + top 5 Shorts), no CTR on board rows. Desk Studio CURRENT same morning (REPORT identity_ok; checked 2026-10-07 ~9:05-9:15 AM ET; proof /workspace/desk-studio-pull/20261007/studio-proof/chezerecta/). Earn CURRENT 516 qualified public watch hours, last 365 days (as of Oct 2, 2026; eligibility screen, never Memberships welcome). shorts90 CURRENT 6.6K/6600. Analytics CURRENT 7d Sep 30–Oct 6, 2026: 5,795 views / 131.0h; 28d Sep 9–Oct 6, 2026: 271,813 views / 2400.0h (Studio card 2.4K).",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 19246,
+      "views": 19441,
       "id": "X9j7lvl1lGg"
     },
     {
       "title": "Háblame Bailando",
       "kind": "long",
-      "views": 14530,
+      "views": 14531,
       "id": "qXW0DEkTe2Q"
     },
     {
@@ -42,7 +42,7 @@
     {
       "title": "Baja Pa' La Calle",
       "kind": "long",
-      "views": 1259,
+      "views": 1260,
       "id": "ZZuCa6PfGhs"
     },
     {
@@ -66,19 +66,19 @@
     {
       "title": "Hablame Bailando",
       "kind": "short",
-      "views": 117905,
+      "views": 117990,
       "id": "jXYgugUiUc0"
     },
     {
       "title": "Aunque Duela",
       "kind": "short",
-      "views": 49720,
+      "views": 49717,
       "id": "xFZKi7tDTm8"
     },
     {
       "title": "No Pasa de Moda",
       "kind": "short",
-      "views": 16600,
+      "views": 16604,
       "id": "-Fa1bCKEqM8"
     },
     {
@@ -95,11 +95,11 @@
     }
   ],
   "recs": [
-    "Earn CURRENT 504 qualified public hours (as of Oct 1; Studio eyes-on ~9:00 AM ET), up from 485 — first time past 500. YPP 4,000 meter from the qualified-hours screen only; never Memberships welcome. shorts90 CURRENT 6.4K / 10M.",
-    "Data API board CURRENT: Latin Mix #1 long at 19,246 (+136 vs Oct 5). Háblame Bailando long 14,530; Vuelve Esta Noche 2,225; English Mix 1,571. Keep Mixes shelf tight; end-screen new cuts into Mix + matching longs.",
-    "Háblame Bailando Short still dominates lifetime at 117,905; long at 14,530. Funnel Shorts into that long and Mixes.",
-    "Aunque Duela Short (49,720) remains the breakout after Háblame. Radio live Sep 22 (XBN-lvXWchw, 828) on the long board. video_count CURRENT 149 / channel_views CURRENT 269,931 (Data API).",
-    "Analytics CURRENT 7d 289.8h / 25,073 views (Sep 29–Oct 5; Studio: 81% fewer hours, 77% fewer views vs prior 7d; +259 subs); 28d 2.4K h / 271,127 views (Sep 8–Oct 5; +3.9K subs) — same-morning Studio eyes-on. Late-Sep spike keeps aging out of the 7d window.",
-    "Shorts are a funnel, not the hours plan. Content tab 7d share: Shorts 73.7% / Videos 21.0% / Live 5.3%; overall thumbnail CTR 1.7% on 78.1K impressions. Studio 7d traffic shows YouTube advertising 73.8% — confirm which promo is still running before reading organic trends."
+    "Earn CURRENT 516 qualified public hours (as of Oct 2; Studio eyes-on ~9:10 AM ET), up 12 from 504. Read the meter from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6.6K qualified Shorts views (up from 6.4K).",
+    "Data API board CURRENT: Latin Mix still #1 long at 19,441 (+195 vs Oct 6) and was the top 7d piece in Studio (800 views). Háblame Bailando long 14,531; Vuelve Esta Noche 2,225; English Mix 1,571. Keep end screens pointing new cuts at the Mix.",
+    "Háblame Bailando Short leads lifetime at 117,990 (+85 vs Oct 6); Aunque Duela Short 49,717 holds #2. Shorts are a funnel into the longs and Mixes, not the hours plan.",
+    "Analytics CURRENT 7d 131.0h / 5,795 views (Sep 30–Oct 6; Studio says 92% fewer hours and 95% fewer views vs prior 7d; +1 sub). The late-Sep spike has now fully aged out of the 7d window, so this is the real organic baseline. 28d 2.4K h / 271,813 views (Sep 9–Oct 6).",
+    "Content tab 7d share: Shorts 47.3% / Videos 29.8% / Live 22.9%; overall thumbnail CTR 1.5% on 68.5K impressions (was 1.7% on 78.1K). Live share is climbing, so the nightly Radio packaging and thumbnails matter more now.",
+    "video_count CURRENT 152 / channel_views CURRENT 270,443 (Data API). Radio live Sep 22 (XBN-lvXWchw, 828) remains on the long board."
   ]
 }
