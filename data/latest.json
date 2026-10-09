@@ -4,21 +4,21 @@
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
     "subs": 3840,
-    "earn": 518,
-    "an7": 181.0,
-    "views7": 5038,
+    "earn": 538,
+    "an7": 172.9,
+    "views7": 4642,
     "an28": 2500.0,
-    "views28": 272567,
-    "shorts90": 6600,
+    "views28": 273000,
+    "shorts90": 6700,
     "channel_views": 271644,
     "video_count": 156
   },
-  "content_source": "Public About + vidIQ CURRENT 2026-10-09 ~09:26 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg: subs 3,840 (About 3.84K), video_count 156, channel_views 271,644 (vidIQ; flat vs its Oct 8 read; Data API Oct 8 was 271,168 / 153). Content board = vidIQ lifetime viewCount (top 8 long + top 5 Shorts), no CTR and no hours on rows. Time and Money long included (prior uploads scan missed it). Studio UNVERIFIED this morning (Google sign-in gate). Earn LAST-KNOWN 518 qualified public watch hours (Oct 8 Studio eligibility screen, as of Oct 3, 2026; never Memberships welcome). shorts90 LAST-KNOWN 6.6K. Analytics LAST-KNOWN 7d Oct 1–7, 2026: 5,038 views / 181.0h; 28d Sep 10–Oct 7, 2026: 272,567 views / 2500.0h. vidIQ Analytics API incomplete (daily rows only through Oct 6) — not used as Studio replacement.",
+  "content_source": "YouTube Data API CURRENT 2026-10-09 09:12 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261009/chezerecta-api.json): subs 3,840 (API rounded; Studio Earn panel shows 3,848), video_count 156, channel_views 271,644. Content board = lifetime viewCount, Data API 09:12 ET merged with vidIQ 09:26 ET read (higher count kept; Háblame Bailando long and Time and Money long come from vidIQ because the uploads scan missed them); no CTR or hours on rows. Desk Studio CURRENT same morning (REPORT identity_ok; checked 2026-10-09 ~9:13-9:16 AM ET; proof /workspace/desk-studio-pull/20261009/studio-proof/chezerecta/). Earn CURRENT 538 qualified public watch hours, last 365 days (as of Oct 4, 2026; eligibility screen, never Memberships welcome). shorts90 CURRENT 6.7K/6700. Analytics CURRENT 7d Oct 2–8, 2026: 4,642 views / 172.9h; 28d Sep 11–Oct 8, 2026: 273K views / 2.5K h (Studio cards, rounded; stored 273000 / 2500.0). This replaces the 09:27 ET LAST-KNOWN write.",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 19762,
+      "views": 19767,
       "id": "X9j7lvl1lGg"
     },
     {
@@ -95,10 +95,11 @@
     }
   ],
   "recs": [
-    "Earn LAST-KNOWN 518 qualified public hours (as of Oct 3, Oct 8 Studio eligibility screen). Studio sign-in gate this morning — do not mark Earn CURRENT. Read the meter from the qualified-hours screen only, never Memberships welcome. shorts90 LAST-KNOWN 6.6K.",
-    "Public/vidIQ board CURRENT: Latin Mix still #1 long at 19,762 (+165 vs Oct 8). Háblame Bailando long 14,539. Keep end screens pointing new cuts at the Mix.",
-    "Time and Money long is 3,918 and is back on the board (prior uploads scan missed it). Vuelve Esta Noche 2,225; English Mix 1,571. Háblame Bailando Short still leads at 117,993.",
-    "Analytics LAST-KNOWN 7d 181.0h / 5,038 views (Oct 1–7); 28d 2.5K h / 272,567 (Sep 10–Oct 7). vidIQ Analytics API only returned days through Oct 6 — not a Studio substitute.",
-    "About CURRENT 3.84K subs / 156 videos. vidIQ channel_views 271,644. Nightly Radio remains the hours plan; Live was the largest 7d slice on the Oct 8 content tab (LAST-KNOWN CTR 1.4% on 73.2K)."
+    "Earn CURRENT 538 qualified public hours (as of Oct 4; Studio eyes-on ~9:14 AM ET), up 20 from 518. Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6.7K (up from 6.6K).",
+    "Latin Mix is still #1 long at 19,767 lifetime and again the top 7d piece in Studio (1,110 views). Háblame Bailando long 14,539; Time and Money 3,918; Vuelve Esta Noche 2,225. Keep end screens pointing new cuts at the Mix.",
+    "Live is pulling: the Oct 7 House & Club Vibes live was #2 in Studio 7d top content (421 views), and No podrás resistirte a este ritmo was #3 (361). Háblame Bailando Short still leads lifetime at 117,993.",
+    "Analytics CURRENT 7d 172.9h / 4,642 views (Oct 2–8), down from 181.0h / 5,038 on the Oct 1–7 window; subs -5. 28d 2.5K h / 273K views (Sep 11–Oct 8).",
+    "Content tab 7d share: Videos 36.7% / Live 35.9% / Shorts 27.3%; overall thumbnail CTR 1.4% on 66.3K impressions (was 1.4% on 73.2K), avg view duration 3:56. Nightly Radio thumbnails and titles still carry about a third of views.",
+    "video_count CURRENT 156 (up 3 from 153) / channel_views CURRENT 271,644 (Data API)."
   ]
 }
