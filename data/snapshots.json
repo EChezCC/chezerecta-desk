@@ -1,5 +1,24 @@
 [
  {
+  "day": "2026-10-09",
+  "subs": 3840,
+  "earn": 518,
+  "an7": 181.0,
+  "an28": 2500.0,
+  "views7": 5038,
+  "views28": 272567,
+  "shorts90": 6600,
+  "channel_views": 271644,
+  "video_count": 156,
+  "earn_as_of": "2026-10-03",
+  "an7_range": "2026-10-01/2026-10-07",
+  "an28_range": "2026-09-10/2026-10-07",
+  "channel": "@DJChezerecta",
+  "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
+  "source": "Public About + vidIQ CURRENT 2026-10-09; Earn/Analytics/shorts90 LAST-KNOWN from 2026-10-08 Studio",
+  "notes": "Earn LAST-KNOWN 518 (as of Oct 3; never Memberships welcome) — Studio blocked at Google sign-in. Analytics LAST-KNOWN eyes-on Oct 8. Content board vidIQ lifetime views. No invented CTR. vidIQ Analytics API incomplete through Oct 6, not used."
+ },
+ {
   "day": "2026-10-08",
   "subs": 3840,
   "earn": 518,
