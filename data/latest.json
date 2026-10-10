@@ -1,24 +1,24 @@
 {
-  "day": "2026-10-09",
+  "day": "2026-10-10",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
     "subs": 3840,
-    "earn": 538,
-    "an7": 172.9,
-    "views7": 4642,
+    "earn": 542,
+    "an7": 181.5,
+    "views7": 4351,
     "an28": 2500.0,
-    "views28": 273000,
+    "views28": 272077,
     "shorts90": 6700,
-    "channel_views": 271644,
-    "video_count": 156
+    "channel_views": 272287,
+    "video_count": 157
   },
-  "content_source": "YouTube Data API CURRENT 2026-10-09 09:12 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261009/chezerecta-api.json): subs 3,840 (API rounded; Studio Earn panel shows 3,848), video_count 156, channel_views 271,644. Content board = lifetime viewCount, Data API 09:12 ET merged with vidIQ 09:26 ET read (higher count kept; Háblame Bailando long and Time and Money long come from vidIQ because the uploads scan missed them); no CTR or hours on rows. Desk Studio CURRENT same morning (REPORT identity_ok; checked 2026-10-09 ~9:13-9:16 AM ET; proof /workspace/desk-studio-pull/20261009/studio-proof/chezerecta/). Earn CURRENT 538 qualified public watch hours, last 365 days (as of Oct 4, 2026; eligibility screen, never Memberships welcome). shorts90 CURRENT 6.7K/6700. Analytics CURRENT 7d Oct 2–8, 2026: 4,642 views / 172.9h; 28d Sep 11–Oct 8, 2026: 273K views / 2.5K h (Studio cards, rounded; stored 273000 / 2500.0). This replaces the 09:27 ET LAST-KNOWN write.",
+  "content_source": "YouTube Data API CURRENT 2026-10-10 08:51 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261010/chezerecta-api.json): subs 3,840 (API rounded; Studio Earn panel shows 3,849), video_count 157, channel_views 272,287. Content board = lifetime viewCount, Data API 08:51 ET merged with prior board (higher count kept; rows outside the API top lists carried from the Oct 9 board); no CTR or hours on rows. Desk Studio CURRENT same morning (REPORT identity_ok; checked 2026-10-10 ~8:52-8:56 AM ET; proof /workspace/desk-studio-pull/20261010/studio-proof/chezerecta/). Earn CURRENT 542 qualified public watch hours, last 365 days (as of Oct 5, 2026; eligibility screen, never Memberships welcome). shorts90 CURRENT 6.7K/6700. Analytics CURRENT 7d Oct 3–9, 2026: 4,351 views / 181.5h; 28d Sep 12–Oct 9, 2026: 272,077 views / 2.5K h (hours Studio-rounded; stored 2500.0).",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 19767,
+      "views": 19916,
       "id": "X9j7lvl1lGg"
     },
     {
@@ -72,7 +72,7 @@
     {
       "title": "Aunque Duela",
       "kind": "short",
-      "views": 49722,
+      "views": 49724,
       "id": "xFZKi7tDTm8"
     },
     {
@@ -95,11 +95,11 @@
     }
   ],
   "recs": [
-    "Earn CURRENT 538 qualified public hours (as of Oct 4; Studio eyes-on ~9:14 AM ET), up 20 from 518. Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6.7K (up from 6.6K).",
-    "Latin Mix is still #1 long at 19,767 lifetime and again the top 7d piece in Studio (1,110 views). Háblame Bailando long 14,539; Time and Money 3,918; Vuelve Esta Noche 2,225. Keep end screens pointing new cuts at the Mix.",
-    "Live is pulling: the Oct 7 House & Club Vibes live was #2 in Studio 7d top content (421 views), and No podrás resistirte a este ritmo was #3 (361). Háblame Bailando Short still leads lifetime at 117,993.",
-    "Analytics CURRENT 7d 172.9h / 4,642 views (Oct 2–8), down from 181.0h / 5,038 on the Oct 1–7 window; subs -5. 28d 2.5K h / 273K views (Sep 11–Oct 8).",
-    "Content tab 7d share: Videos 36.7% / Live 35.9% / Shorts 27.3%; overall thumbnail CTR 1.4% on 66.3K impressions (was 1.4% on 73.2K), avg view duration 3:56. Nightly Radio thumbnails and titles still carry about a third of views.",
-    "video_count CURRENT 156 (up 3 from 153) / channel_views CURRENT 271,644 (Data API)."
+    "Earn CURRENT 542 qualified public hours (as of Oct 5; Studio eyes-on ~8:53 AM ET), up 4 from 538. Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6.7K (flat).",
+    "Latin Mix is still #1 long at 19,916 lifetime and the top 7d piece in Studio again (1,136 views). Keep end screens pointing new cuts at the Mix.",
+    "Live keeps pulling: House & Club Vibes live was #2 in Studio 7d top content (453 views) and No podrás resistirte a este ritmo #3 (298). Live is now the biggest 7d slice at 40.0% of views. Háblame Bailando Short still leads lifetime at 117,993.",
+    "Analytics CURRENT 7d 181.5h / 4,351 views (Oct 3–9), up from 172.9h but views down from 4,642 on the Oct 2–8 window; subs -2. 28d 2.5K h / 272,077 views (Sep 12–Oct 9), with Shorts 79.9% of 28d views.",
+    "Content tab 7d share: Live 40.0% / Videos 37.6% / Shorts 22.4%; overall thumbnail CTR 1.4% on 64.8K impressions (was 1.4% on 66.3K), avg view duration 4:23 (up from 3:56). Videos CTR 2.0% on 12.6K impressions; Live CTR 1.3% on 48.5K. Per-video CTR not captured.",
+    "video_count CURRENT 157 (up 1 from 156) / channel_views CURRENT 272,287 (Data API)."
   ]
 }
