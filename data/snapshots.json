@@ -1,5 +1,24 @@
 [
  {
+  "day": "2026-10-11",
+  "subs": 3840,
+  "earn": 542,
+  "an7": 181.5,
+  "an28": 2500.0,
+  "views7": 4351,
+  "views28": 272077,
+  "shorts90": 6700,
+  "channel_views": 272514,
+  "video_count": 157,
+  "earn_as_of": "2026-10-05",
+  "an7_range": "2026-10-03/2026-10-09",
+  "an28_range": "2026-09-12/2026-10-09",
+  "channel": "@DJChezerecta",
+  "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
+  "source": "YouTube Data API CURRENT + Desk Studio UNVERIFIED 2026-10-11; Earn/Analytics/shorts90 LAST-KNOWN from 2026-10-10 eyes-on",
+  "notes": "Earn LAST-KNOWN 542 (as of Oct 5; never Memberships welcome) — Studio blocked by Google 'Verify it's you' gate ~8:54-8:56 AM ET. Analytics LAST-KNOWN eyes-on Oct 10. Content board Data API. Do not mark Earn/Analytics CURRENT without same-morning eyes-on."
+ },
+ {
   "day": "2026-10-10",
   "subs": 3840,
   "earn": 542,
