@@ -1,24 +1,24 @@
 {
-  "day": "2026-10-11",
+  "day": "2026-10-12",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
     "subs": 3840,
-    "earn": 542,
-    "an7": 181.5,
-    "views7": 4351,
-    "an28": 2500.0,
-    "views28": 272077,
-    "shorts90": 6700,
-    "channel_views": 272514,
-    "video_count": 157
+    "earn": 606,
+    "an7": 160.2,
+    "views7": 4274,
+    "an28": 2330.1,
+    "views28": 251720,
+    "shorts90": 6800,
+    "channel_views": 273538,
+    "video_count": 160
   },
-  "content_source": "YouTube Data API CURRENT 2026-10-11 08:53 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261011/chezerecta-api.json): subs 3,840 (API rounded), video_count 157, channel_views 272,514. Content board = lifetime viewCount, Data API 08:53 ET merged with prior board (higher count kept; rows outside the API top lists carried from the Oct 10 board); no CTR or hours on rows. Desk Studio UNVERIFIED 2026-10-11: Google 'Verify it's you' gate covered every Studio page ~8:54-8:56 AM ET (proof /workspace/desk-studio-pull/20261011/studio-proof/chezerecta/01_identity_BLOCKED_verify_gate.png). Earn LAST-KNOWN 542 qualified public watch hours (as of Oct 5, 2026; from the Oct 10 eyes-on pull; never Memberships welcome). shorts90 LAST-KNOWN 6.7K. Analytics LAST-KNOWN from Oct 10 eyes-on: 7d Oct 3–9 4,351 views / 181.5h; 28d Sep 12–Oct 9 272,077 views / 2.5K h.",
+  "content_source": "YouTube Data API CURRENT 2026-10-12 09:06 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261012/chezerecta-api.json): subs 3,840 (API rounded; Studio Earn panel shows 3,845), video_count 160, channel_views 273,538. Content board = lifetime viewCount, Data API 09:06 ET merged with prior board (higher count kept; rows outside the API top lists, incl. Háblame Bailando long and Short and Time and Money, carried from the Oct 11 board); no CTR or hours on rows. Desk Studio CURRENT same morning (REPORT VERIFIED, identity_ok; checked 2026-10-12 ~9:07-9:11 AM ET; proof /workspace/desk-studio-pull/20261012/studio-proof/chezerecta/). Earn CURRENT 606 qualified public watch hours, last 365 days (as of Oct 7, 2026; Earn eligibility screen, never Memberships welcome). shorts90 CURRENT 6.8K/6800. Analytics CURRENT 7d Oct 5–11, 2026: 4,274 views / 160.2h; 28d Sep 14–Oct 11, 2026: 251,720 views / 2,330.1h (CTR 2.3% on 329,424 impressions).",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 20100,
+      "views": 20296,
       "id": "X9j7lvl1lGg"
     },
     {
@@ -48,7 +48,7 @@
     {
       "title": "Baja Pa' La Calle",
       "kind": "long",
-      "views": 1261,
+      "views": 1262,
       "id": "ZZuCa6PfGhs"
     },
     {
@@ -95,10 +95,10 @@
     }
   ],
   "recs": [
-    "Studio UNVERIFIED today: a Google 'Verify it's you' prompt blocked every Studio page this morning, so Earn, Analytics and shorts90 are LAST-KNOWN from the Oct 10 eyes-on pull. Clearing that prompt needs Eric's phone or password.",
-    "Earn LAST-KNOWN 542 qualified public hours (as of Oct 5; Oct 10 pull). Not refreshed today; never read from Memberships welcome.",
-    "Latin Mix is still #1 long at 20,100 lifetime (Data API, 20,100 in the top-8 long list).",
-    "Analytics LAST-KNOWN 7d 181.5h / 4,351 views (Oct 3–9) and 28d 2.5K h / 272,077 views (Sep 12–Oct 9), both from the Oct 10 pull. No CTR captured today.",
-    "subs CURRENT 3,840 / video_count CURRENT 157 / channel_views CURRENT 272,514 (Data API, up 227 from Oct 10)."
+    "Earn CURRENT 606 qualified public hours (as of Oct 7; Studio eyes-on ~9:07 AM ET), up 64 from 542 (as of Oct 5). Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6.8K (up from 6.7K).",
+    "Latin Mix is still #1 long at 20,296 lifetime (Data API) and the top long in Studio 28d content with 1,104.7 watch hours and a 5.1% CTR. Keep end screens pointing new cuts at the Mix.",
+    "Háblame Bailando Short still leads lifetime at 117,993 (carried from the board; not in today's API top-5 Shorts list). Aunque Duela Short is the top Short in today's API list at 49,725.",
+    "Analytics CURRENT 7d 160.2h / 4,274 views (Oct 5–11), down from 181.5h / 4,351 on Oct 3–9; subs -4. 28d 2,330.1h / 251,720 views (Sep 14–Oct 11), CTR 2.3% on 329,424 impressions.",
+    "video_count CURRENT 160 (up 3 from 157) / channel_views CURRENT 273,538 (up 1,024 from 272,514 on Oct 11, Data API). subs CURRENT 3,840 (API rounded)."
   ]
 }
