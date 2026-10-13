@@ -1,24 +1,24 @@
 {
-  "day": "2026-10-12",
+  "day": "2026-10-13",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
     "subs": 3840,
-    "earn": 606,
-    "an7": 160.2,
-    "views7": 4274,
-    "an28": 2330.1,
-    "views28": 251720,
+    "earn": 604,
+    "an7": 186.9,
+    "views7": 4478,
+    "an28": 2300.0,
+    "views28": 231079,
     "shorts90": 6800,
     "channel_views": 273538,
-    "video_count": 160
+    "video_count": 161
   },
-  "content_source": "YouTube Data API CURRENT 2026-10-12 09:06 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261012/chezerecta-api.json): subs 3,840 (API rounded; Studio Earn panel shows 3,845), video_count 160, channel_views 273,538. Content board = lifetime viewCount, Data API 09:06 ET merged with prior board (higher count kept; rows outside the API top lists, incl. Háblame Bailando long and Short and Time and Money, carried from the Oct 11 board); no CTR or hours on rows. Desk Studio CURRENT same morning (REPORT VERIFIED, identity_ok; checked 2026-10-12 ~9:07-9:11 AM ET; proof /workspace/desk-studio-pull/20261012/studio-proof/chezerecta/). Earn CURRENT 606 qualified public watch hours, last 365 days (as of Oct 7, 2026; Earn eligibility screen, never Memberships welcome). shorts90 CURRENT 6.8K/6800. Analytics CURRENT 7d Oct 5–11, 2026: 4,274 views / 160.2h; 28d Sep 14–Oct 11, 2026: 251,720 views / 2,330.1h (CTR 2.3% on 329,424 impressions).",
+  "content_source": "YouTube Data API CURRENT 2026-10-13 09:00 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261013/chezerecta-api.json): subs 3,840 (API rounded; Studio Earn panel shows 3,845), video_count 161, channel_views 273,538. Content board = lifetime viewCount, Data API 09:00 ET merged with prior board (higher count kept; rows outside the API top lists carried from the Oct 12 board); no CTR or hours on rows. Desk Studio CURRENT same morning (identity_ok; REPORT status PARTIAL only for per-video hours/CTR and rounded 28d cards; read ~9:05 AM ET; proof /workspace/desk-studio-pull/20261013/studio-proof/chezerecta/). Earn CURRENT 604 qualified public watch hours, last 365 days (as of Oct 8, 2026; Earn eligibility screen, never Memberships welcome). shorts90 CURRENT 6.8K/6800. Analytics CURRENT 7d Oct 6–12, 2026: 4,478 views / 186.9h; 28d Sep 15–Oct 12, 2026: 231,079 views / 2.3K h (Studio card rounded; stored as 2300, exact not shown) (CTR 2.3% on 333,500 impressions).",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 20296,
+      "views": 20495,
       "id": "X9j7lvl1lGg"
     },
     {
@@ -60,7 +60,7 @@
     {
       "title": "Baja Panti",
       "kind": "long",
-      "views": 885,
+      "views": 886,
       "id": "xyHHQ6poN_4"
     },
     {
@@ -95,10 +95,10 @@
     }
   ],
   "recs": [
-    "Earn CURRENT 606 qualified public hours (as of Oct 7; Studio eyes-on ~9:07 AM ET), up 64 from 542 (as of Oct 5). Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6.8K (up from 6.7K).",
-    "Latin Mix is still #1 long at 20,296 lifetime (Data API) and the top long in Studio 28d content with 1,104.7 watch hours and a 5.1% CTR. Keep end screens pointing new cuts at the Mix.",
+    "Earn CURRENT 604 qualified public hours (as of Oct 8; Studio eyes-on ~9:05 AM ET), -2 from 606 (as of Oct 7) as the 365-day window rolls. Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6.8K (flat).",
+    "Latin Mix is still #1 long at 20,495 lifetime (Data API) and the top item in Studio 7d content with 1,216 views (avg view 2:31). Keep end screens pointing new cuts at the Mix.",
     "Háblame Bailando Short still leads lifetime at 117,993 (carried from the board; not in today's API top-5 Shorts list). Aunque Duela Short is the top Short in today's API list at 49,725.",
-    "Analytics CURRENT 7d 160.2h / 4,274 views (Oct 5–11), down from 181.5h / 4,351 on Oct 3–9; subs -4. 28d 2,330.1h / 251,720 views (Sep 14–Oct 11), CTR 2.3% on 329,424 impressions.",
-    "video_count CURRENT 160 (up 3 from 157) / channel_views CURRENT 273,538 (up 1,024 from 272,514 on Oct 11, Data API). subs CURRENT 3,840 (API rounded)."
+    "Analytics CURRENT 7d 186.9h / 4,478 views (Oct 6–12), up from 160.2h / 4,274 on Oct 5–11; subs -7. 28d 2.3K h (rounded) / 231,079 views (Sep 15–Oct 12), CTR 2.3% on 333,500 impressions.",
+    "video_count CURRENT 161 (+1 from 160) / channel_views CURRENT 273,538 (+0 from 273,538 on Oct 12, Data API). subs CURRENT 3,840 (API rounded)."
   ]
 }
