@@ -1,5 +1,24 @@
 [
  {
+  "day": "2026-10-15",
+  "subs": 3840,
+  "earn": 627,
+  "an7": 127.8,
+  "an28": 2200.0,
+  "views7": 4380,
+  "views28": 217538,
+  "shorts90": 6900,
+  "channel_views": 275458,
+  "video_count": 168,
+  "earn_as_of": "2026-10-10",
+  "an7_range": "2026-10-08/2026-10-14",
+  "an28_range": "2026-09-17/2026-10-14",
+  "channel": "@DJChezerecta",
+  "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
+  "source": "YouTube Data API CURRENT + Desk Studio CURRENT Earn/Analytics/shorts90 2026-10-15 (identity_ok; per-video hours/CTR not read)",
+  "notes": "Earn CURRENT 627 (as of Oct 10; qualified public hours from Earn eligibility, never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~9:00 AM ET; an28 2200 = Studio card rounded 2.2K (exact not shown); 28d CTR 2.3% on 334.5K impressions. Content board Data API merged with prior board."
+ },
+ {
   "day": "2026-10-14",
   "subs": 3840,
   "earn": 620,
