@@ -1,24 +1,24 @@
 {
-  "day": "2026-10-14",
+  "day": "2026-10-15",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
     "subs": 3840,
-    "earn": 620,
-    "an7": 168.4,
-    "views7": 4453,
-    "an28": 2265.7,
-    "views28": 221155,
-    "shorts90": 6800,
-    "channel_views": 274843,
-    "video_count": 167
+    "earn": 627,
+    "an7": 127.8,
+    "views7": 4380,
+    "an28": 2200.0,
+    "views28": 217538,
+    "shorts90": 6900,
+    "channel_views": 275458,
+    "video_count": 168
   },
-  "content_source": "YouTube Data API CURRENT 2026-10-14 08:52 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261014/chezerecta-api.json): subs 3,840 (API rounded; Studio Earn panel shows 3,845), video_count 167, channel_views 274,843. Content board = lifetime viewCount, Data API 08:52 ET merged with prior board (higher count kept; rows outside the API top lists carried from the Oct 13 board); no CTR or hours on rows. Desk Studio CURRENT same morning (identity_ok; REPORT status PARTIAL only for per-video hours/CTR; read ~8:52-8:56 AM ET; proof /workspace/desk-studio-pull/20261014/studio-proof/chezerecta/). Earn CURRENT 620 qualified public watch hours, last 365 days (as of Oct 9, 2026; Earn eligibility screen, never Memberships welcome). shorts90 CURRENT 6.8K/6800. Analytics CURRENT 7d Oct 7–13, 2026: 4,453 views / 168.4h; 28d Sep 16–Oct 13, 2026: 221,155 views / 2265.7h (CTR 2.3% on 334.2K impressions).",
+  "content_source": "YouTube Data API CURRENT 2026-10-15 08:58 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261015/chezerecta-api.json): subs 3,840 (API rounded; Studio Earn panel shows 3,844), video_count 168, channel_views 275,458. Content board = lifetime viewCount, Data API 08:58 ET merged with prior board (higher count kept; rows outside the API top lists carried from the Oct 14 board); no CTR or hours on rows. Desk Studio CURRENT same morning (identity_ok; read ~9:00-9:07 AM ET; proof /workspace/desk-studio-pull/20261015/studio-proof/chezerecta/). Earn CURRENT 627 qualified public watch hours, last 365 days (as of Oct 10, 2026; Earn eligibility screen, never Memberships welcome). shorts90 CURRENT 6.9K/6900. Analytics CURRENT 7d Oct 8–14, 2026: 4,380 views / 127.8h; 28d Sep 17–Oct 14, 2026: 217,538 views / 2.2K h (Studio card rounded; stored as 2200, exact not shown) (CTR 2.3% on 334.5K impressions).",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 20667,
+      "views": 20862,
       "id": "X9j7lvl1lGg"
     },
     {
@@ -95,10 +95,10 @@
     }
   ],
   "recs": [
-    "Earn CURRENT 620 qualified public hours (as of Oct 9; Studio eyes-on ~8:52 AM ET), +16 from 604 (as of Oct 8). Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6.8K (flat).",
-    "Latin Mix is still #1 long at 20,667 lifetime (Data API) and #3 in Studio 28d content with 20,665 views (avg view 4:36 (13.7%)). Keep end screens pointing new cuts at the Mix.",
-    "Top Studio 28d item is the bachataflow Short 'No podrás resistirte a este ritmo' at 87,135 views (28d). Háblame Bailando Short leads lifetime on the board at 117,993 (carried; not in today's API top-5 Shorts). Aunque Duela is the top Short in today's API list at 49,725.",
-    "Analytics CURRENT 7d 168.4h / 4,453 views (Oct 7–13), down from 186.9h / 4,478 on Oct 6–12; subs -7. 28d 2265.7h / 221,155 views (Sep 16–Oct 13; Studio now shows the exact figure), CTR 2.3% on 334.2K impressions.",
-    "video_count CURRENT 167 (+6 from 161) / channel_views CURRENT 274,843 (+1,305 from 273,538 on Oct 13, Data API). subs CURRENT 3,840 (API rounded)."
+    "Earn CURRENT 627 qualified public hours (as of Oct 10; Studio eyes-on ~9:00 AM ET), +7 from 620 (as of Oct 9). Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6.9K (up from 6.8K).",
+    "Salsa, Dembow y más (Official Mix) is still #1 long at 20,862 lifetime (Data API), #1 in Studio 7d content (1,274 views, avg 2:18) and #3 in 28d (20,860, avg 4:35). Keep end screens and live pins pointing at the Mix.",
+    "Top Studio 28d item is the Short 'No podrás resistirte a este ritmo' at 87,112 views (28d). Háblame Bailando Short leads lifetime on the board at 117,993 (carried; not in today's API top-5 Shorts). Aunque Duela is the top Short in today's API list at 49,725.",
+    "Analytics CURRENT 7d 127.8h / 4,380 views (Oct 8–14), down from 168.4h / 4,453 on Oct 7–13 (Studio: views -13%, watch time -23%); subs -4. 28d 2.2K h (rounded) / 217,538 views (Sep 17–Oct 14), CTR 2.3% on 334.5K impressions.",
+    "video_count CURRENT 168 (+1 from 167) / channel_views CURRENT 275,458 (+615 from 274,843 on Oct 14, Data API). subs CURRENT 3,840 (API rounded). Flags: existing Community Guidelines warning; CLAIMCHECK Bachata Mix v1 (Private) blocked in some territories, not a strike."
   ]
 }
