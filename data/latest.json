@@ -1,32 +1,32 @@
 {
-  "day": "2026-10-15",
+  "day": "2026-10-16",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
-    "subs": 3844,
-    "earn": 627,
-    "an7": 127.8,
-    "views7": 4380,
-    "an28": 2200.0,
-    "views28": 217538,
-    "shorts90": 6900,
-    "channel_views": 275458,
-    "video_count": 168,
+    "subs": 3847,
+    "earn": 629,
+    "an7": null,
+    "views7": null,
+    "an28": 2300.0,
+    "views28": 194947,
+    "shorts90": 6000,
+    "channel_views": 275546,
+    "video_count": 177,
     "subs_api_rounded": 3840,
-    "subs_note": "Studio Earn panel, Oct 15"
+    "subs_note": "Studio Earn panel, Oct 16"
   },
-  "content_source": "YouTube Data API CURRENT 2026-10-15 08:58 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261015/chezerecta-api.json): subs 3,840 (API rounded; Studio Earn panel shows 3,844), video_count 168, channel_views 275,458. Content board = lifetime viewCount, Data API 08:58 ET merged with prior board (higher count kept; rows outside the API top lists carried from the Oct 14 board); no CTR or hours on rows. Desk Studio CURRENT same morning (identity_ok; read ~9:00-9:07 AM ET; proof /workspace/desk-studio-pull/20261015/studio-proof/chezerecta/). Earn CURRENT 627 qualified public watch hours, last 365 days (as of Oct 10, 2026; Earn eligibility screen, never Memberships welcome). shorts90 CURRENT 6.9K/6900. Analytics CURRENT 7d Oct 8–14, 2026: 4,380 views / 127.8h; 28d Sep 17–Oct 14, 2026: 217,538 views / 2.2K h (Studio card rounded; stored as 2200, exact not shown) (CTR 2.3% on 334.5K impressions).",
+  "content_source": "YouTube Data API CURRENT 2026-10-16 08:57 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261016/chezerecta-api.json): subs 3,847 exact (Studio Earn panel); API rounded subscriberCount 3,840 stored as subs_api_rounded; video_count 177, channel_views 275,546. Content board = lifetime viewCount, Data API 08:57 ET merged with prior board (higher count kept; rows outside the API top lists carried from the Oct 15 board); no CTR or hours on rows. Desk Studio PARTIAL same morning (identity_ok; read ~08:57-08:59 ET; proof /workspace/desk-studio-pull/20261016/studio-proof/chezerecta/; blocker: Google 'Verify it's you' on Dashboard/Analytics — not clicked). Earn CURRENT 629 qualified public watch hours, last 365 days (as of Oct 11, 2026; Earn eligibility screen, never Memberships welcome). shorts90 CURRENT 6K/6000. Analytics 28d CURRENT (rounded) Sep 18–Oct 15, 2026: 194,947 views / 2.3K h (Studio card rounded; stored as 2300, exact MISSING). Analytics 7d Studio MISSING (blocked); Analytics API unverified only (Oct 9–15: 3149 views / 95.0h) — not treated as Studio CURRENT. Content tab impressions/CTR MISSING.",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 20862,
+      "views": 21034,
       "id": "X9j7lvl1lGg"
     },
     {
       "title": "Háblame Bailando",
       "kind": "long",
-      "views": 14539,
+      "views": 14562,
       "id": "qXW0DEkTe2Q"
     },
     {
@@ -50,7 +50,7 @@
     {
       "title": "Baja Pa' La Calle",
       "kind": "long",
-      "views": 1262,
+      "views": 1265,
       "id": "ZZuCa6PfGhs"
     },
     {
@@ -62,13 +62,13 @@
     {
       "title": "Baja Panti",
       "kind": "long",
-      "views": 886,
+      "views": 888,
       "id": "xyHHQ6poN_4"
     },
     {
       "title": "Hablame Bailando",
       "kind": "short",
-      "views": 117993,
+      "views": 118001,
       "id": "jXYgugUiUc0"
     },
     {
@@ -97,10 +97,10 @@
     }
   ],
   "recs": [
-    "Earn CURRENT 627 qualified public hours (as of Oct 10; Studio eyes-on ~9:00 AM ET), +7 from 620 (as of Oct 9). Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6.9K (up from 6.8K).",
-    "Salsa, Dembow y más (Official Mix) is still #1 long at 20,862 lifetime (Data API), #1 in Studio 7d content (1,274 views, avg 2:18) and #3 in 28d (20,860, avg 4:35). Keep end screens and live pins pointing at the Mix.",
-    "Top Studio 28d item is the Short 'No podrás resistirte a este ritmo' at 87,112 views (28d). Háblame Bailando Short leads lifetime on the board at 117,993 (carried; not in today's API top-5 Shorts). Aunque Duela is the top Short in today's API list at 49,725.",
-    "Analytics CURRENT 7d 127.8h / 4,380 views (Oct 8–14), down from 168.4h / 4,453 on Oct 7–13 (Studio: views -13%, watch time -23%); subs -4. 28d 2.2K h (rounded) / 217,538 views (Sep 17–Oct 14), CTR 2.3% on 334.5K impressions.",
-    "video_count CURRENT 168 (+1 from 167) / channel_views CURRENT 275,458 (+615 from 274,843 on Oct 14, Data API). subs CURRENT 3,840 (API rounded). Flags: existing Community Guidelines warning; CLAIMCHECK Bachata Mix v1 (Private) blocked in some territories, not a strike."
+    "Earn CURRENT 629 qualified public hours (as of Oct 11; Studio eyes-on ~08:57 AM ET), +2 from 627 (as of Oct 10). Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6K (was 6.9K).",
+    "Salsa, Dembow y más (Official Mix) is still #1 long at 21,034 lifetime (Data API) and #3 in Studio 28d content (21,037, avg 4:33). Keep end screens and live pins pointing at the Mix.",
+    "Top Studio 28d item is the Short 'No podrás resistirte a este ritmo' at 64,629 views (28d). Board Short jXYgugUiUc0 leads lifetime at 118,001. Aunque Duela Short at 49,725 lifetime (API).",
+    "Analytics 28d CURRENT (rounded) 2.3K h / 194,947 views (Sep 18–Oct 15); exact 28d watch hours MISSING. Analytics 7d Studio MISSING (Google 'Verify it's you' blocked date filter) — an7/views7 null; Analytics API unverified Oct 9–15 95.0h / 3149 views (not Studio CURRENT). Content tab impressions/CTR MISSING.",
+    "video_count CURRENT 177 (+9 from 168) / channel_views CURRENT 275,546 (+88 from 275,458 on Oct 15, Data API). subs CURRENT 3,847 exact (Studio Earn); API rounded 3,840. Flags: existing Community Guidelines warning; Oct 16 7:13 AM territory block note for Salsa Mix 2026 (Oscar D'León, Joe Arroyo, Celia Cruz, Grupo Niche)."
   ]
 }
