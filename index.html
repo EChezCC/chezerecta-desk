@@ -47,6 +47,17 @@ th{color:var(--muted);font-size:11px;letter-spacing:.08em;text-transform:upperca
 <div class="row" style="margin-top:14px"><span>Subscribers</span><b id="ypp-subs-lbl">—</b></div><div class="bar-wrap"><div class="bar" id="bar-subs"></div></div>
 <div class="row" style="margin-top:14px"><span>Shorts views (90d Earn)</span><b id="shorts90">—</b></div>
 </div>
+<div class="card"><h2>YPP push to 4,000 hrs (by Dec 25)</h2>
+<div class="row"><span>Qualified hours (365d)</span><b id="yp-h">—</b></div><div class="bar-wrap"><div class="bar" id="yp-bar"></div></div>
+<div class="row"><span>Pace target today</span><b id="yp-pace">—</b></div>
+<div class="row"><span>Needed</span><b>~340 h/week (667 Oct 16 → 4,000 Dec 25)</b></div>
+<div class="row"><span>Subscribers</span><b id="yp-subs">—</b></div>
+<table style="margin-top:10px"><thead><tr><th>Checkpoint</th><th>By</th><th>Status</th></tr></thead><tbody id="yp-cp"></tbody></table>
+<h2 style="margin-top:16px">Daily log</h2>
+<table><thead><tr><th>Date</th><th>Hours</th><th>+24h</th><th>Mixes</th><th>Shorts</th><th>Live</th><th>Subs</th></tr></thead><tbody id="yp-daily"></tbody></table>
+<h2 style="margin-top:16px">Mixes (flag &lt;20 h by day 14)</h2>
+<table><thead><tr><th>Title</th><th>ID / Short</th><th>Publish</th><th>Status</th><th>D7</th><th>D14</th></tr></thead><tbody id="yp-mix"></tbody></table>
+<p class="foot" id="yp-note"></p></div>
 <div class="card"><h2>Do this next</h2><div id="recs"></div></div>
 <div class="card"><h2>Positioning</h2><p class="insight" id="i1"></p><p class="insight" id="i2"></p><p class="insight" id="i3"></p></div>
 <div class="card"><h2>Videos that work</h2>
@@ -85,6 +96,18 @@ async function boot(){
  document.getElementById('videos').innerHTML=(L.content||[]).map(v=>'<tr><td>'+(v.title||'')+'</td><td><span class="pill">'+(v.kind||'')+'</span></td><td>'+fmtK(v.views)+'</td></tr>').join('')||'<tr><td colspan=3>—</td></tr>';
  document.getElementById('video-src').textContent=L.content_source||'';
  document.getElementById('rows').innerHTML=(rows||[]).slice().sort((a,b)=>String(b.day).localeCompare(String(a.day))).map(r=>{const kk=r.kpis||r;return '<tr><td>'+r.day+'</td><td>'+fmt(kk.subs)+'</td><td>'+fmt(kk.earn)+'</td><td>'+fmt(kk.an7)+'</td></tr>';}).join('');
+ const Y=await fetch('data/ypp.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
+ if(Y){const dl=Y.daily||[],last=dl[dl.length-1]||{},H=Number(last.hours||0),ps=Y.pace_start;
+  const day=s=>new Date(s+'T12:00:00');const tgt=ds=>{const t=(day(ds)-day(ps.day))/864e5,T=(day(Y.deadline)-day(ps.day))/864e5;return Math.round(ps.hours+(Y.goal_hours-ps.hours)*Math.min(1,Math.max(0,t/T)))};
+  const pt=tgt(last.day||ps.day);
+  document.getElementById('yp-h').textContent=fmt(H)+' / 4,000 ('+(H/40).toFixed(1)+'%) · '+last.day;
+  document.getElementById('yp-bar').style.width=Math.min(100,H/40)+'%';
+  document.getElementById('yp-pace').textContent=fmt(pt)+' h → '+(H>=pt?'on track':'behind by '+fmt(pt-H)+' h');
+  document.getElementById('yp-subs').textContent=fmt(last.subs)+' / 1,000 ✓ met';
+  document.getElementById('yp-cp').innerHTML=Y.checkpoints.map(c=>{const st=H>=c.hours?'hit':(H>=pt?'on track':'behind');return '<tr><td>'+fmt(c.hours)+'</td><td>'+c.by+'</td><td><span class="pill">'+st+'</span></td></tr>'}).join('');
+  document.getElementById('yp-daily').innerHTML=dl.slice().reverse().map(r=>'<tr><td>'+r.day+'</td><td>'+fmt(r.hours)+'</td><td>'+fmt(r.added24)+'</td><td>'+fmt(r.mixes)+'</td><td>'+fmt(r.shorts)+'</td><td>'+(r.live?'yes':'—')+'</td><td>'+fmt(r.subs)+'</td></tr>').join('');
+  document.getElementById('yp-mix').innerHTML=(Y.mixes||[]).map(m=>{const fl=m.h14!=null&&m.h14<20?' <span class="pill" style="color:#e88">dilution</span>':'';return '<tr><td>'+m.title+fl+'</td><td>'+m.id+'<br>'+m.short+'</td><td>'+m.publish+'</td><td>'+m.status+'</td><td>'+fmt(m.h7)+'</td><td>'+fmt(m.h14)+'</td></tr>'}).join('');
+  document.getElementById('yp-note').textContent=Y.hours_note||'';}
 }
 boot();
 </script></body></html>
