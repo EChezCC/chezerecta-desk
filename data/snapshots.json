@@ -1,7 +1,7 @@
 [
  {
   "day": "2026-10-15",
-  "subs": 3840,
+  "subs": 3844,
   "earn": 627,
   "an7": 127.8,
   "an28": 2200.0,
@@ -16,11 +16,13 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API CURRENT + Desk Studio CURRENT Earn/Analytics/shorts90 2026-10-15 (identity_ok; per-video hours/CTR not read)",
-  "notes": "Earn CURRENT 627 (as of Oct 10; qualified public hours from Earn eligibility, never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~9:00 AM ET; an28 2200 = Studio card rounded 2.2K (exact not shown); 28d CTR 2.3% on 334.5K impressions. Content board Data API merged with prior board."
+  "notes": "Earn CURRENT 627 (as of Oct 10; qualified public hours from Earn eligibility, never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~9:00 AM ET; an28 2200 = Studio card rounded 2.2K (exact not shown); 28d CTR 2.3% on 334.5K impressions. Content board Data API merged with prior board.",
+  "subs_api_rounded": 3840,
+  "subs_note": "exact, Studio Earn panel"
  },
  {
   "day": "2026-10-14",
-  "subs": 3840,
+  "subs": 3845,
   "earn": 620,
   "an7": 168.4,
   "an28": 2265.7,
@@ -35,11 +37,13 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API CURRENT + Desk Studio CURRENT Earn/Analytics/shorts90 2026-10-14 (identity_ok; REPORT PARTIAL for per-video hours/CTR only)",
-  "notes": "Earn CURRENT 620 (as of Oct 9; qualified public hours from Earn eligibility, never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~8:52 AM ET; an28 2265.7 exact; 28d CTR 2.3% on 334.2K impressions. Content board Data API merged with prior board."
+  "notes": "Earn CURRENT 620 (as of Oct 9; qualified public hours from Earn eligibility, never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~8:52 AM ET; an28 2265.7 exact; 28d CTR 2.3% on 334.2K impressions. Content board Data API merged with prior board.",
+  "subs_api_rounded": 3840,
+  "subs_note": "exact, Studio Earn panel"
  },
  {
   "day": "2026-10-13",
-  "subs": 3840,
+  "subs": 3845,
   "earn": 604,
   "an7": 186.9,
   "an28": 2300.0,
@@ -54,11 +58,13 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API CURRENT + Desk Studio CURRENT Earn/Analytics/shorts90 2026-10-13 (identity_ok; REPORT PARTIAL for per-video hours/CTR only)",
-  "notes": "Earn CURRENT 604 (as of Oct 8; qualified public hours from Earn eligibility, never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~9:05 AM ET; an28 2300 = Studio card rounded 2.3K (exact not shown); 28d CTR 2.3% on 333,500 impressions. Content board Data API merged with prior board."
+  "notes": "Earn CURRENT 604 (as of Oct 8; qualified public hours from Earn eligibility, never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~9:05 AM ET; an28 2300 = Studio card rounded 2.3K (exact not shown); 28d CTR 2.3% on 333,500 impressions. Content board Data API merged with prior board.",
+  "subs_api_rounded": 3840,
+  "subs_note": "exact, Studio Earn panel"
  },
  {
   "day": "2026-10-12",
-  "subs": 3840,
+  "subs": 3845,
   "earn": 606,
   "an7": 160.2,
   "an28": 2330.1,
@@ -73,7 +79,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API CURRENT + Desk Studio COMPLETE CURRENT Earn/Analytics/shorts90 2026-10-12 (VERIFIED identity_ok)",
-  "notes": "Earn CURRENT 606 (as of Oct 7; qualified public hours from Earn eligibility, never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~9:07-9:11 AM ET; 28d CTR 2.3% on 329,424 impressions. Content board Data API merged with prior board."
+  "notes": "Earn CURRENT 606 (as of Oct 7; qualified public hours from Earn eligibility, never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~9:07-9:11 AM ET; 28d CTR 2.3% on 329,424 impressions. Content board Data API merged with prior board.",
+  "subs_api_rounded": 3840,
+  "subs_note": "exact, Studio Earn panel"
  },
  {
   "day": "2026-10-11",
@@ -92,11 +100,13 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API CURRENT + Desk Studio UNVERIFIED 2026-10-11; Earn/Analytics/shorts90 LAST-KNOWN from 2026-10-10 eyes-on",
-  "notes": "Earn LAST-KNOWN 542 (as of Oct 5; never Memberships welcome) — Studio blocked by Google 'Verify it's you' gate ~8:54-8:56 AM ET. Analytics LAST-KNOWN eyes-on Oct 10. Content board Data API. Do not mark Earn/Analytics CURRENT without same-morning eyes-on."
+  "notes": "Earn LAST-KNOWN 542 (as of Oct 5; never Memberships welcome) — Studio blocked by Google 'Verify it's you' gate ~8:54-8:56 AM ET. Analytics LAST-KNOWN eyes-on Oct 10. Content board Data API. Do not mark Earn/Analytics CURRENT without same-morning eyes-on.",
+  "subs_api_rounded": 3840,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-10-10",
-  "subs": 3840,
+  "subs": 3849,
   "earn": 542,
   "an7": 181.5,
   "an28": 2500.0,
@@ -111,11 +121,13 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API CURRENT + Desk Studio COMPLETE Earn/Analytics/shorts90 2026-10-10",
-  "notes": "Earn CURRENT 542 (as of Oct 5; never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~8:53-8:54 AM ET; 28d hours Studio-rounded 2.5K. Content tab CTR 1.4% on 64.8K impressions, AVD 4:23."
+  "notes": "Earn CURRENT 542 (as of Oct 5; never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~8:53-8:54 AM ET; 28d hours Studio-rounded 2.5K. Content tab CTR 1.4% on 64.8K impressions, AVD 4:23.",
+  "subs_api_rounded": 3840,
+  "subs_note": "exact, Studio Earn panel"
  },
  {
   "day": "2026-10-09",
-  "subs": 3840,
+  "subs": 3848,
   "earn": 538,
   "an7": 172.9,
   "an28": 2500.0,
@@ -130,11 +142,13 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API CURRENT + Desk Studio COMPLETE Earn/Analytics/shorts90 2026-10-09",
-  "notes": "Earn CURRENT 538 (as of Oct 4; never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~9:14 AM ET; 28d views/hours are Studio-rounded 273K/2.5K. Content tab CTR 1.4% on 66.3K impressions. Replaces 09:27 ET LAST-KNOWN row."
+  "notes": "Earn CURRENT 538 (as of Oct 4; never Memberships welcome). Analytics CURRENT eyes-on identity_ok ~9:14 AM ET; 28d views/hours are Studio-rounded 273K/2.5K. Content tab CTR 1.4% on 66.3K impressions. Replaces 09:27 ET LAST-KNOWN row.",
+  "subs_api_rounded": 3840,
+  "subs_note": "exact, Studio Earn panel"
  },
  {
   "day": "2026-10-08",
-  "subs": 3840,
+  "subs": 3848,
   "earn": 518,
   "an7": 181.0,
   "an28": 2500.0,
@@ -149,11 +163,13 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API CURRENT + Desk Studio COMPLETE Earn/Analytics/shorts90 2026-10-08",
-  "notes": "Earn CURRENT 518 (as of Oct 3; never Memberships welcome). Analytics CURRENT eyes-on identity_ok. Content board Data API. Studio content-tab kind shares + overall CTR 1.4% on 73.2K impressions; board stays API views."
+  "notes": "Earn CURRENT 518 (as of Oct 3; never Memberships welcome). Analytics CURRENT eyes-on identity_ok. Content board Data API. Studio content-tab kind shares + overall CTR 1.4% on 73.2K impressions; board stays API views.",
+  "subs_api_rounded": 3840,
+  "subs_note": "exact, Studio Earn panel"
  },
  {
   "day": "2026-10-07",
-  "subs": 3850,
+  "subs": 3853,
   "earn": 516,
   "an7": 131.0,
   "an28": 2400.0,
@@ -168,7 +184,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API CURRENT + Desk Studio COMPLETE Earn/Analytics/shorts90 2026-10-07",
-  "notes": "Earn CURRENT 516 (as of Oct 2; never Memberships welcome). Analytics CURRENT eyes-on identity_ok. Content board Data API. Studio content-tab kind shares + overall CTR 1.5% on 68.5K impressions; board stays API views."
+  "notes": "Earn CURRENT 516 (as of Oct 2; never Memberships welcome). Analytics CURRENT eyes-on identity_ok. Content board Data API. Studio content-tab kind shares + overall CTR 1.5% on 68.5K impressions; board stays API views.",
+  "subs_api_rounded": 3850,
+  "subs_note": "exact, Studio Earn panel"
  },
  {
   "day": "2026-10-06",
@@ -187,7 +205,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API PASS + Desk Studio COMPLETE Earn/Analytics/shorts90 2026-10-06",
-  "notes": "Earn CURRENT 504 (as of Oct 1; never Memberships welcome). Analytics CURRENT eyes-on identity_ok. Content board Data API. Studio content-tab kind shares + overall CTR 1.7%; board stays API views."
+  "notes": "Earn CURRENT 504 (as of Oct 1; never Memberships welcome). Analytics CURRENT eyes-on identity_ok. Content board Data API. Studio content-tab kind shares + overall CTR 1.7%; board stays API views.",
+  "subs_api_rounded": 3850,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-10-05",
@@ -206,7 +226,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API PASS + Desk Studio COMPLETE Earn/Analytics/shorts90 2026-10-05",
-  "notes": "Earn CURRENT 485 (as of Sep 30; never Memberships welcome). Analytics CURRENT eyes-on identity_ok. Content board Data API. Studio content-tab kind shares + overall CTR 1.9%; board stays API views."
+  "notes": "Earn CURRENT 485 (as of Sep 30; never Memberships welcome). Analytics CURRENT eyes-on identity_ok. Content board Data API. Studio content-tab kind shares + overall CTR 1.9%; board stays API views.",
+  "subs_api_rounded": 3850,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-10-04",
@@ -225,7 +247,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API PASS + Desk Studio COMPLETE Earn/Analytics/shorts90 2026-10-04",
-  "notes": "Earn CURRENT 471 (as of Sep 29; never Memberships welcome). Analytics CURRENT eyes-on identity_verified. Content board Data API. Studio content-tab kind shares + overall CTR 2.0%; board stays API views."
+  "notes": "Earn CURRENT 471 (as of Sep 29; never Memberships welcome). Analytics CURRENT eyes-on identity_verified. Content board Data API. Studio content-tab kind shares + overall CTR 2.0%; board stays API views.",
+  "subs_api_rounded": 3850,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-10-03",
@@ -244,7 +268,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API PASS + Desk Studio UNVERIFIED 2026-10-03; Earn/Analytics/shorts90 LAST-KNOWN from 2026-10-02 eyes-on",
-  "notes": "Earn LAST-KNOWN 437 (as of Sep 27; never Memberships welcome) — Studio blocked at Google password for eric.chez@gmail.com. Analytics LAST-KNOWN eyes-on Oct 2. Content board Data API. Do not mark Earn/Analytics CURRENT."
+  "notes": "Earn LAST-KNOWN 437 (as of Sep 27; never Memberships welcome) — Studio blocked at Google password for eric.chez@gmail.com. Analytics LAST-KNOWN eyes-on Oct 2. Content board Data API. Do not mark Earn/Analytics CURRENT.",
+  "subs_api_rounded": 3850,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-10-02",
@@ -263,7 +289,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API PASS + Desk Studio COMPLETE Earn/Analytics/shorts90 2026-10-02",
-  "notes": "Earn CURRENT 437 (as of Sep 27; never Memberships welcome). Analytics CURRENT eyes-on identity_verified. Content board Data API. Studio content-tab per-row views/hours/CTR available; board stays API views."
+  "notes": "Earn CURRENT 437 (as of Sep 27; never Memberships welcome). Analytics CURRENT eyes-on identity_verified. Content board Data API. Studio content-tab per-row views/hours/CTR available; board stays API views.",
+  "subs_api_rounded": 3850,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-10-01",
@@ -282,7 +310,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API PASS + Desk Studio PARTIAL Analytics CURRENT 2026-10-01; Earn/shorts90 LAST-KNOWN 2026-09-30",
-  "notes": "Earn LAST-KNOWN 367 (as of Sep 25; never Memberships welcome) — today's Earn meter not visible. Analytics CURRENT eyes-on identity_verified. Content board Data API. Studio content-tab per-row CTR available; board stays API views."
+  "notes": "Earn LAST-KNOWN 367 (as of Sep 25; never Memberships welcome) — today's Earn meter not visible. Analytics CURRENT eyes-on identity_verified. Content board Data API. Studio content-tab per-row CTR available; board stays API views.",
+  "subs_api_rounded": 3850,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-09-30",
@@ -301,7 +331,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "Desk Studio PASS Earn/Analytics/shorts90/subs + Content tab 7d 2026-09-30 08:59 ET; Data API FAIL — channel_views/video_count LAST-KNOWN 2026-09-29",
-  "notes": "Earn CURRENT 367 (never Memberships welcome). Content board Studio 7d views/hours/CTR. an28 Studio card 2.3K → 2300. Community Guidelines warning on removed Bolero Radio Sep 27 — not opened."
+  "notes": "Earn CURRENT 367 (never Memberships welcome). Content board Studio 7d views/hours/CTR. an28 Studio card 2.3K → 2300. Community Guidelines warning on removed Bolero Radio Sep 27 — not opened.",
+  "subs_api_rounded": 3850,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-09-29",
@@ -320,7 +352,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API PASS + Desk Studio PASS Earn/Analytics/shorts90 2026-09-29",
-  "notes": "Earn CURRENT 256 (never Memberships welcome). Studio eyes-on same morning identity_verified. Content board Data API. Studio content-tab per-row thumbnail CTR available; board stays API views."
+  "notes": "Earn CURRENT 256 (never Memberships welcome). Studio eyes-on same morning identity_verified. Content board Data API. Studio content-tab per-row thumbnail CTR available; board stays API views.",
+  "subs_api_rounded": 3620,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-09-28",
@@ -339,7 +373,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API PASS + Desk Studio PASS Earn/Analytics/shorts90 2026-09-28",
-  "notes": "Earn CURRENT 127 (never Memberships welcome). Studio eyes-on same morning identity_verified. Content board Data API. Studio content-tab per-row thumbnail CTR available; board stays API views."
+  "notes": "Earn CURRENT 127 (never Memberships welcome). Studio eyes-on same morning identity_verified. Content board Data API. Studio content-tab per-row thumbnail CTR available; board stays API views.",
+  "subs_api_rounded": 3350,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-09-27",
@@ -358,7 +394,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API PASS + Desk Studio PASS Earn/Analytics/shorts90 2026-09-27",
-  "notes": "Earn CURRENT 91 (never Memberships welcome). Studio eyes-on same morning identity_verified. Content board Data API. Studio content-tab total CTR 2.7% (28d Advanced)."
+  "notes": "Earn CURRENT 91 (never Memberships welcome). Studio eyes-on same morning identity_verified. Content board Data API. Studio content-tab total CTR 2.7% (28d Advanced).",
+  "subs_api_rounded": 3130,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-09-26",
@@ -377,7 +415,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API PASS + Desk Studio PASS Earn/Analytics/shorts90 2026-09-26",
-  "notes": "Earn CURRENT 57 (never Memberships welcome). Studio eyes-on same morning identity_verified. Content board Data API. Per-row CTR MISSING; content-tab total CTR 3.1%."
+  "notes": "Earn CURRENT 57 (never Memberships welcome). Studio eyes-on same morning identity_verified. Content board Data API. Per-row CTR MISSING; content-tab total CTR 3.1%.",
+  "subs_api_rounded": 2770,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-09-25",
@@ -396,7 +436,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API PASS + Desk Studio PASS Earn/Analytics/shorts90 2026-09-25",
-  "notes": "Earn PASS 43 (never Memberships welcome). Content board Data API. shorts90 PASS 4.3K. Replaces earlier 2026-09-25 last-known stub."
+  "notes": "Earn PASS 43 (never Memberships welcome). Content board Data API. shorts90 PASS 4.3K. Replaces earlier 2026-09-25 last-known stub.",
+  "subs_api_rounded": 2750,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-09-24",
@@ -415,7 +457,9 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "source": "YouTube Data API + Desk Studio Earn/Analytics 2026-09-24; shorts90 last-known",
-  "notes": "Earn 36 (never Memberships welcome). Content board Data API. shorts90 UNVERIFIED this morning."
+  "notes": "Earn 36 (never Memberships welcome). Content board Data API. shorts90 UNVERIFIED this morning.",
+  "subs_api_rounded": 2680,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  },
  {
   "day": "2026-09-23",
@@ -431,6 +475,8 @@
   "an7_range": "2026-09-16/2026-09-22",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
-  "source": "YouTube Data API + last-known Studio Earn/Analytics"
+  "source": "YouTube Data API + last-known Studio Earn/Analytics",
+  "subs_api_rounded": 2450,
+  "subs_note": "rounded (YouTube Data API, 3 sig figs); no Studio exact reading"
  }
 ]

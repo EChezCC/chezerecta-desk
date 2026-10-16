@@ -3,7 +3,7 @@
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
-    "subs": 3840,
+    "subs": 3844,
     "earn": 627,
     "an7": 127.8,
     "views7": 4380,
@@ -11,7 +11,9 @@
     "views28": 217538,
     "shorts90": 6900,
     "channel_views": 275458,
-    "video_count": 168
+    "video_count": 168,
+    "subs_api_rounded": 3840,
+    "subs_note": "Studio Earn panel, Oct 15"
   },
   "content_source": "YouTube Data API CURRENT 2026-10-15 08:58 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261015/chezerecta-api.json): subs 3,840 (API rounded; Studio Earn panel shows 3,844), video_count 168, channel_views 275,458. Content board = lifetime viewCount, Data API 08:58 ET merged with prior board (higher count kept; rows outside the API top lists carried from the Oct 14 board); no CTR or hours on rows. Desk Studio CURRENT same morning (identity_ok; read ~9:00-9:07 AM ET; proof /workspace/desk-studio-pull/20261015/studio-proof/chezerecta/). Earn CURRENT 627 qualified public watch hours, last 365 days (as of Oct 10, 2026; Earn eligibility screen, never Memberships welcome). shorts90 CURRENT 6.9K/6900. Analytics CURRENT 7d Oct 8–14, 2026: 4,380 views / 127.8h; 28d Sep 17–Oct 14, 2026: 217,538 views / 2.2K h (Studio card rounded; stored as 2200, exact not shown) (CTR 2.3% on 334.5K impressions).",
   "content": [
