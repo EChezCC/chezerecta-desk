@@ -1,14 +1,78 @@
 {
- "goal_hours": 4000, "deadline": "2026-12-25",
- "pace_start": {"day": "2026-10-16", "hours": 667},
- "hours_note": "667 = Studio 629 (as of Oct 11) + API accrual Oct 12-14 (+38 h, unverified). Model: /workspace/analytics/ypp-path-20261016/REPORT.md",
+ "goal_hours": 4000,
+ "deadline": "2026-12-25",
+ "pace_start": {
+  "day": "2026-10-16",
+  "hours": 629
+ },
+ "hours_note": "Hours = Studio Earn qualified public watch hours (365d) only, never API. Seed 667 (Studio 629 + unverified API accrual) replaced 2026-10-17 with Studio 629 (read Oct 16, as of Oct 11). Each daily row's figure lags Studio's 'as of' date by ~5 days. Model: /workspace/analytics/ypp-path-20261016/REPORT.md",
  "checkpoints": [
-  {"hours": 1000, "by": "2026-11-01"}, {"hours": 2000, "by": "2026-11-22"},
-  {"hours": 3000, "by": "2026-12-10"}, {"hours": 4000, "by": "2026-12-25"}],
+  {
+   "hours": 1000,
+   "by": "2026-11-01"
+  },
+  {
+   "hours": 2000,
+   "by": "2026-11-22"
+  },
+  {
+   "hours": 3000,
+   "by": "2026-12-10"
+  },
+  {
+   "hours": 4000,
+   "by": "2026-12-25"
+  }
+ ],
  "daily": [
-  {"day": "2026-10-16", "hours": 667, "added24": null, "mixes": 1, "shorts": 0, "live": false, "subs": 3847, "note": "~90 h/week recent pace; salsa mix Public 8 PM ET"}],
+  {
+   "day": "2026-10-16",
+   "hours": 629,
+   "added24": null,
+   "mixes": 1,
+   "shorts": 0,
+   "live": false,
+   "subs": 3847,
+   "note": "~90 h/week recent pace; salsa mix Public 8 PM ET; hours = Studio 629 (as of Oct 11), seed 667 replaced Oct 17"
+  },
+  {
+   "day": "2026-10-17",
+   "hours": 661.0,
+   "added24": 32.0,
+   "mixes": 4,
+   "shorts": 4,
+   "live": true,
+   "subs": 3859,
+   "note": "Studio Earn 661 (as of Oct 12; read 9:00 AM ET). Last 24h by Data API: mixes Salsa s_BJgq_jikE + Cumbia XKPWroPWP7s Public, Merengue QkzzL15urq8 + Afro House 3sUVQHF7mV0 uploaded (scheduled); Afro private dup Szqf_MYmQhM not counted. Shorts BkL2eDsJJ_M, rU5ZAAzqmik Public; Tp4HvW2QgfM, mUkG6SOEmYQ scheduled. Live Fri Bachata xlcRy0PuTao 7:00 PM-12:03 AM ET. Subs Studio 3,859 (API 3,850)."
+  }
+ ],
  "mixes": [
-  {"title": "Salsa mix", "id": "s_BJgq_jikE", "publish": "2026-10-16 20:00 ET", "short": "BkL2eDsJJ_M", "status": "Scheduled", "h7": null, "h14": null},
-  {"title": "Deep house mix", "id": "T31mIrSb1aQ", "publish": "2026-10-17 12:00 ET", "short": "vT_eK8oX75g", "status": "Scheduled", "h7": null, "h14": null},
-  {"title": "Merengue mix", "id": "QkzzL15urq8", "publish": "2026-10-18 16:00 ET", "short": "Tp4HvW2QgfM", "status": "Scheduled", "h7": null, "h14": null}]
+  {
+   "title": "Salsa mix",
+   "id": "s_BJgq_jikE",
+   "publish": "2026-10-16 20:00 ET",
+   "short": "BkL2eDsJJ_M",
+   "status": "Public",
+   "h7": null,
+   "h14": null
+  },
+  {
+   "title": "Deep house mix",
+   "id": "T31mIrSb1aQ",
+   "publish": "2026-10-17 12:00 ET",
+   "short": "vT_eK8oX75g",
+   "status": "Scheduled",
+   "h7": null,
+   "h14": null
+  },
+  {
+   "title": "Merengue mix",
+   "id": "QkzzL15urq8",
+   "publish": "2026-10-18 16:00 ET",
+   "short": "Tp4HvW2QgfM",
+   "status": "Scheduled",
+   "h7": null,
+   "h14": null
+  }
+ ]
 }
