@@ -1,32 +1,32 @@
 {
-  "day": "2026-10-16",
+  "day": "2026-10-17",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
-    "subs": 3847,
-    "earn": 629,
-    "an7": null,
-    "views7": null,
+    "subs": 3859,
+    "earn": 661,
+    "an7": 243.8,
+    "views7": 9769,
     "an28": 2300.0,
-    "views28": 194947,
-    "shorts90": 6000,
-    "channel_views": 275546,
-    "video_count": 177,
-    "subs_api_rounded": 3840,
-    "subs_note": "Studio Earn panel, Oct 16"
+    "views28": 180665,
+    "shorts90": 7000,
+    "channel_views": 279668,
+    "video_count": 182,
+    "subs_api_rounded": 3850,
+    "subs_note": "Studio Earn panel, Oct 17"
   },
-  "content_source": "YouTube Data API CURRENT 2026-10-16 08:57 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261016/chezerecta-api.json): subs 3,847 exact (Studio Earn panel); API rounded subscriberCount 3,840 stored as subs_api_rounded; video_count 177, channel_views 275,546. Content board = lifetime viewCount, Data API 08:57 ET merged with prior board (higher count kept; rows outside the API top lists carried from the Oct 15 board); no CTR or hours on rows. Desk Studio PARTIAL same morning (identity_ok; read ~08:57-08:59 ET; proof /workspace/desk-studio-pull/20261016/studio-proof/chezerecta/; blocker: Google 'Verify it's you' on Dashboard/Analytics — not clicked). Earn CURRENT 629 qualified public watch hours, last 365 days (as of Oct 11, 2026; Earn eligibility screen, never Memberships welcome). shorts90 CURRENT 6K/6000. Analytics 28d CURRENT (rounded) Sep 18–Oct 15, 2026: 194,947 views / 2.3K h (Studio card rounded; stored as 2300, exact MISSING). Analytics 7d Studio MISSING (blocked); Analytics API unverified only (Oct 9–15: 3149 views / 95.0h) — not treated as Studio CURRENT. Content tab impressions/CTR MISSING.",
+  "content_source": "YouTube Data API CURRENT 2026-10-17 08:59 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261017/chezerecta-api.json): subs 3,859 exact (Studio Earn panel); API rounded subscriberCount 3,850 stored separately as subs_api_rounded; video_count 182, channel_views 279,668. Content board = lifetime viewCount, Data API 08:59 ET merged with prior board (higher count kept; rows outside the API top lists carried from the Oct 16 board); no CTR or hours on rows. Desk Studio CURRENT same morning (identity_ok PASS; read ~09:00-09:05 ET; proof /workspace/desk-studio-pull/20261017/studio-proof/chezerecta/). Earn CURRENT 661 qualified public watch hours, last 365 days (as of Oct 12, 2026; Earn eligibility screen, never Memberships welcome). shorts90 CURRENT 7K/7000. Analytics CURRENT 7d Oct 10–16, 2026: 9,769 views / 243.8h (subs +6); 28d Sep 19–Oct 16, 2026: 180,665 views / 2.3K h (Studio card rounded; stored as 2300, exact MISSING) (CTR 2.3% on 362.6K impressions).",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 21034,
+      "views": 21226,
       "id": "X9j7lvl1lGg"
     },
     {
       "title": "Háblame Bailando",
       "kind": "long",
-      "views": 14562,
+      "views": 14565,
       "id": "qXW0DEkTe2Q"
     },
     {
@@ -38,7 +38,7 @@
     {
       "title": "Vuelve Esta Noche",
       "kind": "long",
-      "views": 2225,
+      "views": 2226,
       "id": "1sKPharmVVM"
     },
     {
@@ -80,7 +80,7 @@
     {
       "title": "No Pasa de Moda",
       "kind": "short",
-      "views": 16604,
+      "views": 16613,
       "id": "-Fa1bCKEqM8"
     },
     {
@@ -92,15 +92,15 @@
     {
       "title": "Aunque Sea Mentira",
       "kind": "short",
-      "views": 2598,
+      "views": 2601,
       "id": "jeMkHkR8wjo"
     }
   ],
   "recs": [
-    "Earn CURRENT 629 qualified public hours (as of Oct 11; Studio eyes-on ~08:57 AM ET), +2 from 627 (as of Oct 10). Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 6K (was 6.9K).",
-    "Salsa, Dembow y más (Official Mix) is still #1 long at 21,034 lifetime (Data API) and #3 in Studio 28d content (21,037, avg 4:33). Keep end screens and live pins pointing at the Mix.",
-    "Top Studio 28d item is the Short 'No podrás resistirte a este ritmo' at 64,629 views (28d). Board Short jXYgugUiUc0 leads lifetime at 118,001. Aunque Duela Short at 49,725 lifetime (API).",
-    "Analytics 28d CURRENT (rounded) 2.3K h / 194,947 views (Sep 18–Oct 15); exact 28d watch hours MISSING. Analytics 7d Studio MISSING (Google 'Verify it's you' blocked date filter) — an7/views7 null; Analytics API unverified Oct 9–15 95.0h / 3149 views (not Studio CURRENT). Content tab impressions/CTR MISSING.",
-    "video_count CURRENT 177 (+9 from 168) / channel_views CURRENT 275,546 (+88 from 275,458 on Oct 15, Data API). subs CURRENT 3,847 exact (Studio Earn); API rounded 3,840. Flags: existing Community Guidelines warning; Oct 16 7:13 AM territory block note for Salsa Mix 2026 (Oscar D'León, Joe Arroyo, Celia Cruz, Grupo Niche)."
+    "Earn CURRENT 661 qualified public hours (as of Oct 12; Studio eyes-on ~09:00 AM ET), +32 from 629 (as of Oct 11). Read from the qualified-hours eligibility screen only, never Memberships welcome. shorts90 CURRENT 7K (was 6K).",
+    "Salsa, Dembow y más (Official Mix) is still #1 long at 21,226 lifetime (Data API) and #3 in Studio 28d content (21,227, avg 4:31). Keep end screens and live pins pointing at the Mix.",
+    "Top Studio 28d item is the Short 'No podrás resistirte a este ritmo' at 63,704 views (28d). Board Short jXYgugUiUc0 leads lifetime at 118,001. Aunque Duela Short at 49,725 lifetime (API).",
+    "Analytics CURRENT 7d 243.8h / 9,769 views (Oct 10–16; Studio: views +126%, hours +47%); subs +6. Prior 7d Studio was MISSING on Oct 16. 28d 2.3K h (rounded; exact MISSING) / 180,665 views (Sep 19–Oct 16), CTR 2.3% on 362.6K impressions; Videos filter 29.6K views, 183.9K impr, 2.8% CTR, AVD 3:59.",
+    "video_count CURRENT 182 (+5 from 177) / channel_views CURRENT 279,668 (+4,122 from 275,546 on Oct 16, Data API). subs CURRENT 3,859 exact (Studio Earn); API rounded 3,850. Flags: existing Community Guidelines warning; Oct 17 8:52 AM territory block note for Afro House Mix 2026 Deep Tribal Grooves (claims; not a strike)."
   ]
 }
