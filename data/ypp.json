@@ -44,6 +44,16 @@
    "live": true,
    "subs": 3859,
    "note": "Studio Earn 661 (as of Oct 12; read 9:00 AM ET). Last 24h by Data API: mixes Salsa s_BJgq_jikE + Cumbia XKPWroPWP7s Public, Merengue QkzzL15urq8 + Afro House 3sUVQHF7mV0 uploaded (scheduled); Afro private dup Szqf_MYmQhM not counted. Shorts BkL2eDsJJ_M, rU5ZAAzqmik Public; Tp4HvW2QgfM, mUkG6SOEmYQ scheduled. Live Fri Bachata xlcRy0PuTao 7:00 PM-12:03 AM ET. Subs Studio 3,859 (API 3,850)."
+  },
+  {
+   "day": "2026-10-18",
+   "hours": 667.0,
+   "added24": 6.0,
+   "mixes": 3,
+   "shorts": 3,
+   "live": true,
+   "subs": 3863,
+   "note": "Studio Earn 667 (as of Oct 13; Studio re-read ~9:05 AM ET, screenshot files not resolved on box). Last 24h by Data API (new since yesterday's row): Deep House T31mIrSb1aQ Public 12 PM ET Oct 17, Cumbias Viejitas iTLQHr6Vnro + Dembow RofmB1yJyNQ uploaded (scheduled Oct 18 12 PM / 2 PM ET); Afro House 3sUVQHF7mV0 went Public 9 PM ET (counted yesterday). Shorts vT_eK8oX75g Public; 2dV2RMOiz_Y, l3zb875GAiw uploaded (scheduled); mUkG6SOEmYQ Public (counted yesterday). Live Sat Caribbean Rhythm Session K16ifB-VnnI 7:00-7:29 PM ET + WuiPjl2MKGY 9:54-10:20 PM ET. Subs Studio 3,863 (API 3,860)."
   }
  ],
  "mixes": [
@@ -61,7 +71,7 @@
    "id": "T31mIrSb1aQ",
    "publish": "2026-10-17 12:00 ET",
    "short": "vT_eK8oX75g",
-   "status": "Scheduled",
+   "status": "Public",
    "h7": null,
    "h14": null
   },
