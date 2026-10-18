@@ -1,5 +1,24 @@
 [
  {
+  "day": "2026-10-18",
+  "subs": null,
+  "earn": null,
+  "an7": null,
+  "an28": null,
+  "views7": null,
+  "views28": null,
+  "shorts90": null,
+  "channel_views": 280384,
+  "video_count": 187,
+  "channel": "@DJChezerecta",
+  "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
+  "source": "YouTube Data API CURRENT 2026-10-18 + Desk Studio MISSING (no REPORT.json; subs/Earn/Analytics/shorts90 MISSING)",
+  "notes": "subs = exact Studio count, MISSING today (null; never fall back to API rounded); Data API rounded 3,860 stored separately as subs_api_rounded. Earn, shorts90, Studio 7d/28d MISSING. Analytics API (UNVERIFIED vs Studio; runs lower than Studio cards): 7d 2026-10-10..2026-10-16 6,987 views / 168.9h; 28d 2026-09-19..2026-10-16 177,883 views / 2212.8h. Not used as KPI values.",
+  "subs_api_rounded": 3860,
+  "subs_note": "MISSING, Studio count not read",
+  "subs_error": "Studio subscriber count MISSING: Desk Studio pull 2026-10-18 wrote no studio-proof/chezerecta/REPORT.json; subs left null (no fallback to API rounded)."
+ },
+ {
   "day": "2026-10-17",
   "subs": 3859,
   "earn": 661,
