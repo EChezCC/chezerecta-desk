@@ -1,5 +1,26 @@
 [
  {
+  "day": "2026-10-21",
+  "subs": 3886,
+  "earn": 806,
+  "an7": 998.0,
+  "an28": 2884.7,
+  "views7": 21013,
+  "views28": 139105,
+  "shorts90": 8600,
+  "channel_views": 294538,
+  "video_count": 196,
+  "earn_as_of": "2026-10-16",
+  "an7_range": "2026-10-14/2026-10-20",
+  "an28_range": "2026-09-23/2026-10-20",
+  "channel": "@DJChezerecta",
+  "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
+  "source": "YouTube Data API CURRENT + Desk Studio CURRENT Earn/7d/28d/shorts90 2026-10-21 ~9:00 AM ET (identity PASS; exact 28d hours 2,884.7; 7d impressions/CTR MISSING)",
+  "notes": "subs = exact Studio count 3,886; Data API rounded 3,880 stored separately as subs_api_rounded. Earn CURRENT 806 (as of Oct 16; Earn screen target 3,000). 7d 998.0h/21,013 Oct 14–20 (+40 subs); an28 2884.7 exact; views28 139,105 Sep 23–Oct 20; 28d CTR 2.7% on 460.7K impressions. shorts90 8.6K/8600.",
+  "subs_api_rounded": 3880,
+  "subs_note": "exact, Studio Earn screen"
+ },
+ {
   "day": "2026-10-20",
   "subs": 3883,
   "earn": 744,
