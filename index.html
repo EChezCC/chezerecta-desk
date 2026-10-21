@@ -50,10 +50,10 @@ th{color:var(--muted);font-size:11px;letter-spacing:.08em;text-transform:upperca
 </div>
 <div class="card"><h2>YPP push to 4,000 hrs (by Dec 25)</h2>
 <div class="row"><span>Qualified hours (365d)</span><b id="yp-h">—</b></div><div class="bar-wrap"><div class="bar" id="yp-bar"></div></div>
-<div class="row"><span>Pace target today</span><b id="yp-pace">—</b></div>
+<div class="row"><span>Status (28d pace)</span><b id="yp-pace">—</b></div>
 <div class="row"><span>Needed</span><b>~340 h/week (667 Oct 16 → 4,000 Dec 25)</b></div>
 <div class="row"><span>Subscribers</span><b id="yp-subs">—</b></div>
-<table style="margin-top:10px"><thead><tr><th>Checkpoint</th><th>By</th><th>Status</th></tr></thead><tbody id="yp-cp"></tbody></table>
+<table style="margin-top:10px"><thead><tr><th>Checkpoint</th><th>Target</th><th>Projected</th><th>Status</th></tr></thead><tbody id="yp-cp"></tbody></table>
 <h2 style="margin-top:16px">Daily log</h2>
 <table><thead><tr><th>Date</th><th>Hours</th><th>+24h</th><th>Mixes</th><th>Shorts</th><th>Live</th><th>Subs</th></tr></thead><tbody id="yp-daily"></tbody></table>
 <h2 style="margin-top:16px">Mixes (flag &lt;20 h by day 14)</h2>
@@ -103,9 +103,10 @@ async function boot(){
   const pt=tgt(last.day||ps.day);
   document.getElementById('yp-h').textContent=fmt(H)+' / 4,000 ('+(H/40).toFixed(1)+'%) · '+last.day;
   document.getElementById('yp-bar').style.width=Math.min(100,H/40)+'%';
-  document.getElementById('yp-pace').textContent=fmt(pt)+' h → '+(H>=pt?'on track':'behind by '+fmt(pt-H)+' h');
+  const cps=Y.checkpoints||[],cst=c=>H>=c.hours?'hit':(c.target&&c.by>c.target?'behind':'on track'),g=cps[cps.length-1]||{};
+  document.getElementById('yp-pace').textContent=(Y.overall_status||cst(g))+' · '+fmt(Y.pace_h_per_day)+' h/day (28d) · 4,000 h ~'+(g.by||'—')+' vs '+(g.target||Y.deadline);
   document.getElementById('yp-subs').textContent=fmt(last.subs)+' / 1,000 ✓ met';
-  document.getElementById('yp-cp').innerHTML=Y.checkpoints.map(c=>{const st=H>=c.hours?'hit':(H>=pt?'on track':'behind');return '<tr><td>'+fmt(c.hours)+'</td><td>'+c.by+'</td><td><span class="pill">'+st+'</span></td></tr>'}).join('');
+  document.getElementById('yp-cp').innerHTML=cps.map(c=>{const st=c.status||cst(c);return '<tr><td>'+fmt(c.hours)+'</td><td>'+(c.target||'—')+'</td><td>'+c.by+'</td><td><span class="pill">'+st+'</span></td></tr>'}).join('');
   document.getElementById('yp-daily').innerHTML=dl.slice().reverse().map(r=>'<tr><td>'+r.day+'</td><td>'+fmt(r.hours)+'</td><td>'+fmt(r.added24)+'</td><td>'+fmt(r.mixes)+'</td><td>'+fmt(r.shorts)+'</td><td>'+(r.live?'yes':'—')+'</td><td>'+fmt(r.subs)+'</td></tr>').join('');
   document.getElementById('yp-mix').innerHTML=(Y.mixes||[]).map(m=>{const fl=m.h14!=null&&m.h14<20?' <span class="pill" style="color:#e88">dilution</span>':'';return '<tr><td>'+m.title+fl+'</td><td>'+m.id+'<br>'+m.short+'</td><td>'+m.publish+'</td><td>'+m.status+'</td><td>'+fmt(m.h7)+'</td><td>'+fmt(m.h14)+'</td></tr>'}).join('');
   document.getElementById('yp-method').textContent=Y.method?'Method: '+Y.method:'';document.getElementById('yp-note').textContent=Y.hours_note||'';}
