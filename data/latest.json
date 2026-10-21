@@ -1,21 +1,21 @@
 {
-  "day": "2026-10-20",
+  "day": "2026-10-21",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
-    "subs": 3883,
-    "earn": 744,
-    "an7": 923.7,
-    "views7": 20213,
-    "an28": 2900.0,
-    "views28": 156715,
-    "shorts90": 8000,
-    "channel_views": 292932,
+    "subs": 3886,
+    "earn": 806,
+    "an7": 998.0,
+    "views7": 21013,
+    "an28": 2884.7,
+    "views28": 139105,
+    "shorts90": 8600,
+    "channel_views": 294538,
     "video_count": 196,
     "subs_api_rounded": 3880,
-    "subs_note": "exact Studio count (Earn/Realtime, Oct 20 ~08:54–08:57 ET)"
+    "subs_note": "exact Studio count (Earn screen, Oct 21 ~9:00 AM ET)"
   },
-  "content_source": "YouTube Data API CURRENT 2026-10-20 08:53 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261020/chezerecta-api.json): subs 3,883 = exact Studio count (Earn/Realtime); API rounded subscriberCount 3,880 stored separately as subs_api_rounded; video_count 196, channel_views 292,932. Content board = lifetime viewCount, Data API merged with prior board (higher count kept); no CTR or hours on rows. Desk Studio CURRENT (HARD identity PASS, full eyes-on, no verify prompt; proof /workspace/desk-studio-pull/20261020/studio-proof/chezerecta/REPORT.json) ~08:54–08:57 ET: Earn CURRENT 744 qualified public watch hours, last 365 days (as of Oct 15, 2026; Earn eligibility screen now shows a 3,000-hour target, 4,000 meter not displayed; never Memberships welcome), shorts90 CURRENT 8K/8000; 7d CURRENT Oct 13–19, 2026: 20,213 views / 923.7h, subs +37; 28d Sep 22–Oct 19, 2026: 156,715 views / 2.9K h (Studio card rounded; stored as 2900, exact MISSING), subs +2K (rounded). Content tab 28d: 458.9K impressions, CTR 2.7%, avg view duration 5:35; 7d impressions/CTR MISSING.",
+  "content_source": "YouTube Data API CURRENT 2026-10-21 08:51 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261021/chezerecta-api.json): subs 3,886 = exact Studio count (Earn screen); API rounded subscriberCount 3,880 stored separately as subs_api_rounded; video_count 196, channel_views 294,538. Content board = lifetime viewCount, Data API merged with prior board (higher count kept); no CTR or hours on rows. Desk Studio CURRENT (HARD identity PASS; proof /workspace/desk-studio-pull/20261021/studio-proof/chezerecta/REPORT.json) ~9:00 AM ET: Earn CURRENT 806 qualified public watch hours, last 365 days (as of Oct 16, 2026; Earn eligibility screen target 3,000; never Memberships welcome), shorts90 CURRENT 8.6K/8600; 7d CURRENT Oct 14–20, 2026: 21,013 views / 998.0h, subs +40; 28d Sep 23–Oct 20, 2026: 139,105 views / 2,884.7h (exact), subs +1,599. Content tab 28d: 460.7K impressions, CTR 2.7%, avg view duration 5:48 (from impressions); 28d top-content table MISSING (card layout only); 7d impressions/CTR MISSING.",
   "content": [
     {
       "title": "Latin Mix",
@@ -26,7 +26,7 @@
     {
       "title": "Háblame Bailando",
       "kind": "long",
-      "views": 14593,
+      "views": 14597,
       "id": "qXW0DEkTe2Q"
     },
     {
@@ -38,7 +38,7 @@
     {
       "title": "Vuelve Esta Noche",
       "kind": "long",
-      "views": 2226,
+      "views": 2227,
       "id": "1sKPharmVVM"
     },
     {
@@ -97,10 +97,10 @@
     }
   ],
   "recs": [
-    "Earn CURRENT 744 qualified public hours (as of Oct 15; Studio ~08:55 AM ET), +77 from 667 (as of Oct 14). The Earn eligibility screen now shows a 3,000-hour target instead of the 4,000 meter (UNVERIFIED whether the YPP threshold changed; confirm before relying on it). shorts90 CURRENT 8K.",
-    "Salsa, Dembow y más (Official Mix) is still #1 long at 21,229 lifetime (Data API) and #3 in Studio 28d top content (20,842, avg 4:36). Keep end screens and live pins pointing at the Mix.",
-    "Top Studio 28d item is the Short 'No podrás resistirte a este ritmo' at 63,652 views (28d), then 'Ritmo y sentimiento en Aunque Duela' 33,368. Board Short jXYgugUiUc0 leads lifetime at 118,006.",
-    "Analytics CURRENT 7d 923.7h / 20,213 views (Oct 13–19), subs +37; up from 778.0h / 18,675 (Oct 12–18). 28d 2.9K h (rounded) / 156,715 views (Sep 22–Oct 19), +2K subs (rounded); 28d impressions 458.9K, CTR 2.7%.",
-    "video_count CURRENT 196 (+1 from 195) / channel_views CURRENT 292,932 (+5,503 from 287,429 on Oct 19, Data API). subs CURRENT 3,883 exact (Studio; +5 from 3,878); API rounded 3,880. Flags: Community Guidelines warning still active."
+    "Earn CURRENT 806 qualified public hours of 3,000 (as of Oct 16; Studio ~9:00 AM ET), +62 from 744 (as of Oct 15). 3,000 unlocks the first YPP tier; 4,000 unlocks watch-page ads. shorts90 CURRENT 8.6K.",
+    "Salsa, Dembow y más (Official Mix) is still #1 long at 21,229 lifetime (Data API) and #2 in Studio 28d top content (20,646). Keep end screens and live pins pointing at the Mix.",
+    "Top Studio 28d item is the Short 'No podrás resistirte a este ritmo' at 63,639 views (28d), then the Mix, then 'Ritmo y sentimiento en Aunque Duela' 16,205. Board Short jXYgugUiUc0 leads lifetime at 118,006.",
+    "Analytics CURRENT 7d 998.0h / 21,013 views (Oct 14–20), subs +40; up from 923.7h / 20,213 (Oct 13–19). 28d 2,884.7h / 139,105 views (Sep 23–Oct 20), +1,599 subs; 28d impressions 460.7K, CTR 2.7%.",
+    "video_count CURRENT 196 (+0 from 196) / channel_views CURRENT 294,538 (+1,606 from 292,932 on Oct 20, Data API). subs CURRENT 3,886 exact (Studio; +3 from 3,883); API rounded 3,880. Flags: Community Guidelines warning still active."
   ]
 }
