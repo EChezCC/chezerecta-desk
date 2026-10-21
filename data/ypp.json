@@ -9,19 +9,27 @@
  "checkpoints": [
   {
    "hours": 1000,
-   "by": "2026-11-01"
+   "by": "2026-10-23",
+   "old_by": "2026-11-01",
+   "days_from_as_of": 7.0
   },
   {
    "hours": 2000,
-   "by": "2026-11-22"
+   "by": "2026-11-28",
+   "old_by": "2026-11-22",
+   "days_from_as_of": 43.4
   },
   {
    "hours": 3000,
-   "by": "2026-12-10"
+   "by": "2027-01-03",
+   "old_by": "2026-12-10",
+   "days_from_as_of": 79.7
   },
   {
    "hours": 4000,
-   "by": "2026-12-25"
+   "by": "2027-02-08",
+   "old_by": "2026-12-25",
+   "days_from_as_of": 116.0
   }
  ],
  "daily": [
@@ -114,5 +122,28 @@
    "h7": null,
    "h14": null
   }
- ]
+ ],
+ "pace_h_per_day": 27.54,
+ "pace_7d_h_per_day": 26.57,
+ "window_start": "2026-09-18",
+ "window_end": "2026-10-16",
+ "window_readings": {
+  "start": {
+   "as_of": "2026-09-18",
+   "hours": 35,
+   "read": "2026-09-23"
+  },
+  "end": {
+   "as_of": "2026-10-16",
+   "hours": 806,
+   "read": "2026-10-21"
+  },
+  "7d_start": {
+   "as_of": "2026-10-09",
+   "hours": 620,
+   "read": "2026-10-14"
+  }
+ },
+ "window_gaps": "No Studio reading with as-of 2026-09-26, 09-28, or 10-06 (not interpolated).",
+ "method": "Dates = as-of 2026-10-16 + (milestone - 806) / 27.54 h/day, the 28-day trailing pace (35 h as of Sep 18 to 806 h as of Oct 16, Studio Earn as-of dates). 7-day pace 26.57 h/day. Approximate: qualified hours are a rolling 365-day window, so old hours expire."
 }
