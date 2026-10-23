@@ -1,1 +1,106 @@
-$(cat /tmp/latest.json)
+{
+  "day": "2026-10-23",
+  "channel": "@DJChezerecta",
+  "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
+  "kpis": {
+    "subs": 3890,
+    "earn": 1064,
+    "an7": 1800.0,
+    "views7": 23896,
+    "an28": 3500.0,
+    "views28": 122864,
+    "shorts90": 9000,
+    "channel_views": 298968,
+    "video_count": 206,
+    "subs_api_rounded": 3890,
+    "subs_note": "public About 3.89K (Studio exact MISSING; LAST-KNOWN exact 3,891 on Oct 22)"
+  },
+  "content_source": "Public YouTube About CURRENT 2026-10-23 ~09:42 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg: 3.89K subscribers, 206 videos. Studio UNVERIFIED (no eyes-on this morning). Earn/Analytics/shorts90/channel_views LAST-KNOWN from 2026-10-22 Studio CURRENT: Earn 1,064 (as of Oct 17); 7d Oct 15\u201321 1.8K h / 23,896 views; 28d Sep 24\u2013Oct 21 3.5K h / 122,864 views; shorts90 9K; channel_views 298,968. Content board carried from prior Data API (higher counts kept); no new per-video views/CTR invented.",
+  "content": [
+    {
+      "title": "Latin Mix",
+      "kind": "long mix",
+      "views": 21229,
+      "id": "X9j7lvl1lGg"
+    },
+    {
+      "title": "H\u00e1blame Bailando",
+      "kind": "long",
+      "views": 14601,
+      "id": "qXW0DEkTe2Q"
+    },
+    {
+      "title": "Time and Money",
+      "kind": "long",
+      "views": 3920,
+      "id": "6JAcnRSnpn0"
+    },
+    {
+      "title": "Vuelve Esta Noche",
+      "kind": "long",
+      "views": 2227,
+      "id": "1sKPharmVVM"
+    },
+    {
+      "title": "English Mix",
+      "kind": "long mix",
+      "views": 1571,
+      "id": "StjG2rDDOkg"
+    },
+    {
+      "title": "Baja Pa' La Calle",
+      "kind": "long",
+      "views": 1265,
+      "id": "ZZuCa6PfGhs"
+    },
+    {
+      "title": "Heat Check",
+      "kind": "long",
+      "views": 1120,
+      "id": "miZbce10DG0"
+    },
+    {
+      "title": "Baja Panti",
+      "kind": "long",
+      "views": 888,
+      "id": "xyHHQ6poN_4"
+    },
+    {
+      "title": "Hablame Bailando",
+      "kind": "short",
+      "views": 118008,
+      "id": "jXYgugUiUc0"
+    },
+    {
+      "title": "Aunque Duela",
+      "kind": "short",
+      "views": 49725,
+      "id": "xFZKi7tDTm8"
+    },
+    {
+      "title": "No Pasa de Moda",
+      "kind": "short",
+      "views": 16613,
+      "id": "-Fa1bCKEqM8"
+    },
+    {
+      "title": "Luz Baja",
+      "kind": "short",
+      "views": 11623,
+      "id": "Y_mR_OcTzoI"
+    },
+    {
+      "title": "Aunque Sea Mentira",
+      "kind": "short",
+      "views": 2602,
+      "id": "jeMkHkR8wjo"
+    }
+  ],
+  "recs": [
+    "Earn LAST-KNOWN 1,064 qualified public hours of 3,000 (as of Oct 17; Studio Oct 22). Studio UNVERIFIED this morning. 3,000 unlocks first YPP tier; 4,000 unlocks watch-page ads. shorts90 LAST-KNOWN 9K.",
+    "Latin Mix remains #1 long at 21,229 lifetime. Keep end screens and live pins pointing at the Mix.",
+    "H\u00e1blame Short leads lifetime at 118,008. Board carried; no new Data API views today.",
+    "Analytics LAST-KNOWN 7d 1.8K h / 23,896 views (Oct 15\u201321); 28d 3.5K h / 122,864 views (Sep 24\u2013Oct 21). 28d CTR 2.8% on 500.3K impressions from Oct 22.",
+    "video_count CURRENT 206 (public About; +5 from 201 on Oct 22). subs public 3.89K. channel_views LAST-KNOWN 298,968. Flags: Community Guidelines warning still active from prior."
+  ]
+}
