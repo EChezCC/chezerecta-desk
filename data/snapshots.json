@@ -1,1 +1,1 @@
-$(cat /tmp/snapshots_new.json)
+$(cat /tmp/snapshots.json)
