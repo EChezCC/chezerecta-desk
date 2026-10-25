@@ -1,1 +1,13 @@
-$(cat /tmp/snapshots.json)
+[
+  {
+    "day": "2026-10-25",
+    "subs": 3970,
+    "earn": 1064,
+    "an7": 1328,
+    "views7": 13382,
+    "an28": 2859,
+    "views28": 114786,
+    "shorts90": 9000,
+    "note": "Studio UNVERIFIED; Earn LAST-KNOWN 1064 as of Oct 17; public About 3.97K / 215 videos"
+  }
+]

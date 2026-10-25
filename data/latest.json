@@ -1,1 +1,31 @@
-$(cat /tmp/latest.json)
+{
+  "day": "2026-10-25",
+  "channel": "@DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg",
+  "kpis": {
+    "subs": 3970,
+    "earn": 1064,
+    "an7": 1328,
+    "views7": 13382,
+    "an28": 2859,
+    "views28": 114786,
+    "shorts90": 9000
+  },
+  "content": [
+    {"title": "Latin Mix", "kind": "long mix", "views": 21229, "hours": null, "ctr": null},
+    {"title": "H\u00e1blame Bailando", "kind": "short", "views": 118008, "hours": null, "ctr": null},
+    {"title": "Aunque Duela", "kind": "short", "views": 50000, "hours": null, "ctr": null},
+    {"title": "No Pasa de Moda", "kind": "short", "views": 17000, "hours": null, "ctr": null},
+    {"title": "Luz Baja", "kind": "short", "views": 12000, "hours": null, "ctr": null},
+    {"title": "Time and Money", "kind": "long", "views": 3918, "hours": null, "ctr": null},
+    {"title": "Vuelve Esta Noche", "kind": "long", "views": 2200, "hours": null, "ctr": null},
+    {"title": "English Mix", "kind": "long mix", "views": 1600, "hours": null, "ctr": null}
+  ],
+  "recs": [
+    "Feature Latin Mix + H\u00e1blame Short as primary hours drivers",
+    "Keep Radio lives on schedule for qualified hours",
+    "Pin Shorts related to long Official Videos",
+    "Clean Mixes playlist of singles",
+    "End screens on Public Officials \u2192 Latin Mix"
+  ],
+  "content_source": "carried from Oct 24 Data API (Studio Content tab missing; no invented CTR)"
+}
